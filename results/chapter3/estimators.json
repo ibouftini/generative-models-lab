@@ -1,0 +1,31 @@
+{
+  "numbers": {
+    "median": {
+      "ess_prior": 1.0,
+      "ess_encoder": 2.391833782196045,
+      "log_p_prior": 365.05712890625,
+      "log_p_encoder": 479.61378479003906,
+      "elbo": 468.1443328857422,
+      "elbo_one_sample_std": 6.741716146469116,
+      "best_prior_draw_share": 1.0
+    },
+    "gap_lower_bound_nats_median": 14.281494140625,
+    "prior_estimate_below_encoder_estimate_nats_median": 84.57609558105469
+  },
+  "config": {
+    "model": "mnist_vae8.pt",
+    "test_images": 100,
+    "prior_draws": 100000,
+    "encoder_draws": 1000,
+    "decoder_variance": 0.03
+  },
+  "seed": 0,
+  "script": "chapter3/experiments.py",
+  "environment": {
+    "python": "3.14.6",
+    "torch": "2.13.0+cu130",
+    "numpy": "2.5.2",
+    "device": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "date": "2026-10-21T10:29:47+00:00"
+  }
+}

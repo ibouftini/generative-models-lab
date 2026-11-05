@@ -1,0 +1,37 @@
+{
+  "numbers": {
+    "plain_autoencoder": {
+      "high_frequency_share_reconstructions": 0.044119324535131454,
+      "high_frequency_share_prior_samples": 0.049346502870321274,
+      "squared_error_per_image": 13.820155143737793
+    },
+    "vae": {
+      "high_frequency_share_reconstructions": 0.04656840115785599,
+      "high_frequency_share_prior_samples": 0.05629727989435196,
+      "squared_error_per_image": 12.735505104064941
+    },
+    "vae_kl_x100": {
+      "high_frequency_share_reconstructions": 0.0014902689727023244,
+      "high_frequency_share_prior_samples": 0.0014831104781478643,
+      "squared_error_per_image": 46.33216094970703
+    },
+    "data": {
+      "high_frequency_share": 0.10501167923212051
+    }
+  },
+  "config": {
+    "latent": 8,
+    "high_frequency_cutoff": "0.25 cycles per pixel",
+    "prior_codes_seed": 1,
+    "note": "plain autoencoder trained 20 epochs, VAEs 30 epochs"
+  },
+  "seed": 0,
+  "script": "chapter3/experiments.py",
+  "environment": {
+    "python": "3.14.6",
+    "torch": "2.13.0+cu130",
+    "numpy": "2.5.2",
+    "device": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "date": "2026-10-23T19:39:39+00:00"
+  }
+}

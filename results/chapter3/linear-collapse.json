@@ -1,0 +1,76 @@
+{
+  "numbers": {
+    "principal_variances_top10": [
+      5.1169,
+      3.7414,
+      3.2527,
+      2.8416,
+      2.5671,
+      2.2737,
+      1.7252,
+      1.5206,
+      1.4563,
+      1.2428
+    ],
+    "total_variance": 52.726,
+    "by_beta": {
+      "0.1": {
+        "threshold": 0.003,
+        "directions_above": 404,
+        "predicted_active": 8,
+        "measured_active": 8
+      },
+      "0.3": {
+        "threshold": 0.009,
+        "directions_above": 267,
+        "predicted_active": 8,
+        "measured_active": 8
+      },
+      "1": {
+        "threshold": 0.03,
+        "directions_above": 136,
+        "predicted_active": 8,
+        "measured_active": 8
+      },
+      "3": {
+        "threshold": 0.09,
+        "directions_above": 74,
+        "predicted_active": 8,
+        "measured_active": 8
+      },
+      "10": {
+        "threshold": 0.3,
+        "directions_above": 35,
+        "predicted_active": 8,
+        "measured_active": 8
+      },
+      "30": {
+        "threshold": 0.8999999999999999,
+        "directions_above": 13,
+        "predicted_active": 8,
+        "measured_active": 6
+      },
+      "100": {
+        "threshold": 3.0,
+        "directions_above": 3,
+        "predicted_active": 3,
+        "measured_active": 2
+      }
+    }
+  },
+  "config": {
+    "decoder_variance": 0.03,
+    "latent": 8,
+    "data": "MNIST training set, pixels in [0, 1]",
+    "measured": "results/chapter3/beta.json"
+  },
+  "seed": null,
+  "script": "chapter3/experiments.py",
+  "environment": {
+    "python": "3.14.6",
+    "torch": "2.13.0+cu130",
+    "numpy": "2.5.2",
+    "device": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "date": "2026-10-21T10:12:27+00:00"
+  }
+}

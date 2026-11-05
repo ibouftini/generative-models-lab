@@ -1,0 +1,34 @@
+{
+  "numbers": {
+    "classifier_test_accuracy": 0.9886999726295471,
+    "confident_autoencoder": 0.004000000189989805,
+    "confident_vae": 0.46299999952316284,
+    "confident_real_test_all": 0.9682999849319458,
+    "confident_real_test_first_1000": 0.9589999914169312,
+    "confident_vae_kl": 0.15299999713897705,
+    "sigma_mean_vae": 0.05351445451378822,
+    "kl_per_image_vae": 24.84046173095703,
+    "active_units_vae": 8,
+    "sigma_mean_vae_kl": 0.9172505736351013,
+    "kl_per_image_vae_kl": 0.8320127129554749,
+    "active_units_vae_kl": 2,
+    "ae2_code_sd": [
+      5.838,
+      4.267
+    ],
+    "ae2_radius_95": 16.676910400390625
+  },
+  "config": {
+    "prior_samples": 1000,
+    "confidence_threshold": 0.9
+  },
+  "seed": 1,
+  "script": "chapter3/vae_numbers.py",
+  "environment": {
+    "python": "3.14.6",
+    "torch": "2.13.0+cu130",
+    "numpy": "2.5.2",
+    "device": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "date": "2026-10-08T17:46:17+00:00"
+  }
+}

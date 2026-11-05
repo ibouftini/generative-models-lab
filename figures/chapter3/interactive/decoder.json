@@ -1,0 +1,32 @@
+{
+ "layers": [
+  {
+   "in": 2,
+   "out": 256,
+   "weights": 0,
+   "scales": 512,
+   "bias": 1024
+  },
+  {
+   "in": 256,
+   "out": 512,
+   "weights": 1536,
+   "scales": 132608,
+   "bias": 133632
+  },
+  {
+   "in": 512,
+   "out": 784,
+   "weights": 134656,
+   "scales": 536064,
+   "bias": 537632
+  }
+ ],
+ "activation": "relu",
+ "output": "sigmoid",
+ "latent": 2,
+ "image": [
+  28,
+  28
+ ]
+}

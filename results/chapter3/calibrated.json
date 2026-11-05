@@ -1,0 +1,47 @@
+{
+  "numbers": {
+    "fixed_variance_model": {
+      "squared_error_per_image": 12.735505104064941,
+      "optimal_decoder_variance": 0.01624426618218422,
+      "rate_nats": 24.84046173095703,
+      "active_units": 8,
+      "mean_encoder_std": 0.05351445451378822,
+      "prior_samples_recognized": 0.46700000762939453,
+      "high_frequency_share_reconstructions": 0.04656840115785599,
+      "high_frequency_share_prior_samples": 0.05629727989435196,
+      "high_frequency_share_data": 0.10501167923212051
+    },
+    "calibrated_model": {
+      "squared_error_per_image": 12.432699203491211,
+      "optimal_decoder_variance": 0.015858035534620285,
+      "rate_nats": 28.045597076416016,
+      "active_units": 8,
+      "mean_encoder_std": 0.03900757431983948,
+      "prior_samples_recognized": 0.4399999976158142,
+      "high_frequency_share_reconstructions": 0.04938209429383278,
+      "high_frequency_share_prior_samples": 0.06554226577281952,
+      "high_frequency_share_data": 0.10501167923212051
+    },
+    "effective_beta_of_fixed_model": 1.8468054920758612
+  },
+  "config": {
+    "fixed_decoder_variance": 0.03,
+    "epochs": 30,
+    "latent": 8,
+    "hidden": [
+      256,
+      64
+    ],
+    "high_frequency_cutoff": "0.25 cycles per pixel",
+    "prior_codes_seed": 1
+  },
+  "seed": 0,
+  "script": "chapter3/experiments.py",
+  "environment": {
+    "python": "3.14.6",
+    "torch": "2.13.0+cu130",
+    "numpy": "2.5.2",
+    "device": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "date": "2026-10-21T10:29:40+00:00"
+  }
+}

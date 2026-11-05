@@ -1,0 +1,42 @@
+{
+  "numbers": {
+    "generator": {
+      "train_loss": 0.0005748441708137153,
+      "test_loss": 0.0014209294095289815,
+      "copy_share": 0.0020000000949949026,
+      "median_ratio": 1.0596184730529785
+    },
+    "real_test_images": {
+      "train_loss": 0.00015135597417631486,
+      "test_loss": 0.0006037529316415963,
+      "copy_share": 0.011500000022351742,
+      "median_ratio": 1.0001300573349
+    },
+    "kernel_scale": 7.239170711499199,
+    "median_pairwise_mnist": 10.232400894165039,
+    "median_pairwise_circle": 1.4134769439697266
+  },
+  "config": {
+    "samples": 2000,
+    "space": "pixels in [0, 1]",
+    "train": "60,000 MNIST training images",
+    "test": "8,000 MNIST test images (the other 2,000 are the real-image reference)",
+    "bandwidths": [
+      0.14478341422998398,
+      0.36195853557495994,
+      0.7239170711499199,
+      1.4478341422998398,
+      3.6195853557495994
+    ],
+    "generator_steps": 70220
+  },
+  "seed": 3,
+  "script": "chapter1/memorization.py",
+  "environment": {
+    "python": "3.14.6",
+    "torch": "2.13.0+cu130",
+    "numpy": "2.5.2",
+    "device": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "date": "2026-10-21T08:09:47+00:00"
+  }
+}

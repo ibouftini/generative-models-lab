@@ -1,0 +1,39 @@
+{
+  "numbers": {
+    "forward_fit": {
+      "mu": 0.0,
+      "sigma": 2.0615528128088303,
+      "numerical_mu": -9.641426988685994e-08,
+      "numerical_sigma": 2.06155232134489,
+      "forward_kl": 0.7235530265460722,
+      "reverse_kl": 2.0976160687085526
+    },
+    "reverse_fit": {
+      "mu": 1.9998012549022628,
+      "sigma": 0.5003981351051369,
+      "forward_kl": 15.279909390100263,
+      "reverse_kl": 0.6930529416667381
+    }
+  },
+  "config": {
+    "target": "0.5 N(-2, 0.5^2) + 0.5 N(2, 0.5^2)",
+    "grid": [
+      -12,
+      12,
+      48001
+    ],
+    "reverse_start": [
+      1.0,
+      1.0
+    ]
+  },
+  "seed": null,
+  "script": "chapter2/kl_directions.py",
+  "environment": {
+    "python": "3.14.6",
+    "torch": "2.13.0+cu130",
+    "numpy": "2.5.2",
+    "device": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "date": "2026-10-23T19:59:00+00:00"
+  }
+}

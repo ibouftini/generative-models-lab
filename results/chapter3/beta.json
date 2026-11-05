@@ -1,0 +1,117 @@
+{
+  "numbers": {
+    "0.1": {
+      "rate_nats": 50.9278450012207,
+      "distortion": 14.316527366638184,
+      "distortion_nats": -415.5140962729997,
+      "active_units": 8,
+      "seeds": {
+        "1": {
+          "rate_nats": 52.36380386352539,
+          "distortion": 14.335674285888672,
+          "distortion_nats": -415.19498095215823,
+          "active_units": 8
+        },
+        "2": {
+          "rate_nats": 52.367496490478516,
+          "distortion": 14.035078048706055,
+          "distortion_nats": -420.2049182385352,
+          "active_units": 8
+        }
+      }
+    },
+    "0.3": {
+      "rate_nats": 35.001949310302734,
+      "distortion": 14.104686737060547,
+      "distortion_nats": -419.044773432627,
+      "active_units": 8,
+      "seeds": {
+        "1": {
+          "rate_nats": 35.57679748535156,
+          "distortion": 14.379621505737305,
+          "distortion_nats": -414.46252728801437,
+          "active_units": 8
+        },
+        "2": {
+          "rate_nats": 34.81907272338867,
+          "distortion": 14.1528902053833,
+          "distortion_nats": -418.2413822939144,
+          "active_units": 8
+        }
+      }
+    },
+    "1": {
+      "rate_nats": 25.495454788208008,
+      "distortion": 14.311227798461914,
+      "distortion_nats": -415.60242240927084,
+      "active_units": 8,
+      "seeds": {
+        "1": {
+          "rate_nats": 25.0218563079834,
+          "distortion": 14.556435585021973,
+          "distortion_nats": -411.51562596660324,
+          "active_units": 8
+        },
+        "2": {
+          "rate_nats": 25.01436996459961,
+          "distortion": 14.401946067810059,
+          "distortion_nats": -414.0904512534685,
+          "active_units": 8
+        }
+      }
+    },
+    "3": {
+      "rate_nats": 19.052642822265625,
+      "distortion": 15.036824226379395,
+      "distortion_nats": -403.5091486106462,
+      "active_units": 8
+    },
+    "10": {
+      "rate_nats": 12.638931274414062,
+      "distortion": 17.51311492919922,
+      "distortion_nats": -362.23763689698245,
+      "active_units": 8
+    },
+    "30": {
+      "rate_nats": 6.353493690490723,
+      "distortion": 25.38247299194336,
+      "distortion_nats": -231.0816691845801,
+      "active_units": 6
+    },
+    "100": {
+      "rate_nats": 0.7335008382797241,
+      "distortion": 47.0240364074707,
+      "distortion_nats": 129.61105440754227,
+      "active_units": 2
+    }
+  },
+  "config": {
+    "betas": [
+      0.1,
+      0.3,
+      1,
+      3,
+      10,
+      30,
+      100
+    ],
+    "seeded": [
+      0.1,
+      0.3,
+      1
+    ],
+    "epochs": 10,
+    "latent": 8,
+    "decoder_variance": 0.03,
+    "active_unit_threshold": "variance of the encoder mean over the test set > 0.01"
+  },
+  "seed": 0,
+  "script": "chapter3/experiments.py",
+  "environment": {
+    "python": "3.14.6",
+    "torch": "2.13.0+cu130",
+    "numpy": "2.5.2",
+    "device": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "date": "2026-10-08T17:48:17+00:00"
+  }
+}
