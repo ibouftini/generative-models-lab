@@ -1,0 +1,662 @@
+<svg class="schematic" viewBox="0 0 720 350" xmlns="http://www.w3.org/2000/svg">
+<rect class="sch-frame" x="20" y="20" width="250" height="250" rx="10"/>
+<rect class="sch-frame" x="450" y="20" width="250" height="250" rx="10"/>
+<path class="sch-region" d="M93.7,185.0 L93.7,148.2 L94.3,147.2 L94.9,146.2 L95.6,145.1 L96.2,144.1 L96.8,143.0 L97.5,142.0 L98.1,140.9 L98.8,139.8 L99.4,138.7 L100.0,137.5 L100.7,136.4 L101.3,135.3 L101.9,134.1 L102.6,132.9 L103.2,131.8 L103.8,130.6 L104.5,129.4 L105.1,128.2 L105.8,127.0 L106.4,125.8 L107.0,124.6 L107.7,123.4 L108.3,122.2 L108.9,120.9 L109.6,119.7 L110.2,118.5 L110.8,117.3 L111.5,116.0 L112.1,114.8 L112.7,113.6 L113.4,112.4 L114.0,111.2 L114.7,110.0 L115.3,108.8 L115.9,107.6 L116.6,106.4 L117.2,105.2 L117.8,104.0 L118.5,102.9 L118.5,185.0 Z"/>
+<path class="sch-line" d="M39.2,183.9 L40.5,183.8 L41.9,183.7 L43.2,183.5 L44.5,183.3 L45.9,183.1 L47.2,182.9 L48.5,182.7 L49.8,182.4 L51.2,182.2 L52.5,181.9 L53.8,181.5 L55.2,181.2 L56.5,180.8 L57.8,180.3 L59.2,179.9 L60.5,179.3 L61.8,178.8 L63.2,178.2 L64.5,177.6 L65.8,176.9 L67.1,176.1 L68.5,175.3 L69.8,174.5 L71.1,173.6 L72.5,172.6 L73.8,171.6 L75.1,170.5 L76.5,169.4 L77.8,168.2 L79.1,166.9 L80.5,165.5 L81.8,164.1 L83.1,162.6 L84.4,161.0 L85.8,159.4 L87.1,157.7 L88.4,155.9 L89.8,154.0 L91.1,152.1 L92.4,150.1 L93.8,148.0 L95.1,145.9 L96.4,143.7 L97.8,141.5 L99.1,139.2 L100.4,136.8 L101.7,134.4 L103.1,132.0 L104.4,129.5 L105.7,127.0 L107.1,124.5 L108.4,121.9 L109.7,119.4 L111.1,116.8 L112.4,114.3 L113.7,111.7 L115.1,109.2 L116.4,106.7 L117.7,104.3 L119.0,101.9 L120.4,99.5 L121.7,97.2 L123.0,95.0 L124.4,92.8 L125.7,90.8 L127.0,88.8 L128.4,86.9 L129.7,85.2 L131.0,83.6 L132.4,82.1 L133.7,80.7 L135.0,79.5 L136.3,78.4 L137.7,77.4 L139.0,76.6 L140.3,76.0 L141.7,75.5 L143.0,75.2 L144.3,75.0 L145.7,75.0 L147.0,75.2 L148.3,75.5 L149.7,76.0 L151.0,76.6 L152.3,77.4 L153.7,78.4 L155.0,79.5 L156.3,80.7 L157.6,82.1 L159.0,83.6 L160.3,85.2 L161.6,86.9 L163.0,88.8 L164.3,90.8 L165.6,92.8 L167.0,95.0 L168.3,97.2 L169.6,99.5 L171.0,101.9 L172.3,104.3 L173.6,106.7 L174.9,109.2 L176.3,111.7 L177.6,114.3 L178.9,116.8 L180.3,119.4 L181.6,121.9 L182.9,124.5 L184.3,127.0 L185.6,129.5 L186.9,132.0 L188.3,134.4 L189.6,136.8 L190.9,139.2 L192.2,141.5 L193.6,143.7 L194.9,145.9 L196.2,148.0 L197.6,150.1 L198.9,152.1 L200.2,154.0 L201.6,155.9 L202.9,157.7 L204.2,159.4 L205.6,161.0 L206.9,162.6 L208.2,164.1 L209.5,165.5 L210.9,166.9 L212.2,168.2 L213.5,169.4 L214.9,170.5 L216.2,171.6 L217.5,172.6 L218.9,173.6 L220.2,174.5 L221.5,175.3 L222.9,176.1 L224.2,176.9 L225.5,177.6 L226.8,178.2 L228.2,178.8 L229.5,179.3 L230.8,179.9 L232.2,180.3 L233.5,180.8 L234.8,181.2 L236.2,181.5 L237.5,181.9 L238.8,182.2 L240.2,182.4 L241.5,182.7 L242.8,182.9 L244.1,183.1 L245.5,183.3 L246.8,183.5 L248.1,183.7 L249.5,183.8 L250.8,183.9"/>
+<path class="sch-grid" d="M37.5,185.0 L252.5,185.0"/>
+<path class="sch-line" d="M93.7,185.0 L118.5,185.0"/>
+<path class="sch-grid" d="M215.8,189.0 L215.8,201.0"/>
+<path class="sch-grid" d="M56.4,189.0 L56.4,201.0"/>
+<path class="sch-grid" d="M159.5,189.0 L159.5,201.0"/>
+<path class="sch-grid" d="M125.3,189.0 L125.3,201.0"/>
+<path class="sch-grid" d="M129.3,189.0 L129.3,201.0"/>
+<path class="sch-grid" d="M137.5,189.0 L137.5,201.0"/>
+<path class="sch-grid" d="M74.9,189.0 L74.9,201.0"/>
+<path class="sch-grid" d="M137.0,189.0 L137.0,201.0"/>
+<path class="sch-grid" d="M152.8,189.0 L152.8,201.0"/>
+<path class="sch-grid" d="M132.8,189.0 L132.8,201.0"/>
+<path class="sch-grid" d="M135.2,189.0 L135.2,201.0"/>
+<path class="sch-grid" d="M121.8,189.0 L121.8,201.0"/>
+<path class="sch-grid" d="M131.4,189.0 L131.4,201.0"/>
+<path class="sch-grid" d="M161.7,189.0 L161.7,201.0"/>
+<path class="sch-grid" d="M136.7,189.0 L136.7,201.0"/>
+<path class="sch-grid" d="M178.2,189.0 L178.2,201.0"/>
+<path class="sch-grid" d="M138.1,189.0 L138.1,201.0"/>
+<path class="sch-grid" d="M145.8,189.0 L145.8,201.0"/>
+<path class="sch-grid" d="M198.6,189.0 L198.6,201.0"/>
+<path class="sch-grid" d="M163.9,189.0 L163.9,201.0"/>
+<path class="sch-grid" d="M127.5,189.0 L127.5,201.0"/>
+<path class="sch-grid" d="M138.7,189.0 L138.7,201.0"/>
+<path class="sch-grid" d="M163.7,189.0 L163.7,201.0"/>
+<path class="sch-grid" d="M212.1,189.0 L212.1,201.0"/>
+<path class="sch-grid" d="M135.6,189.0 L135.6,201.0"/>
+<path class="sch-grid" d="M136.6,189.0 L136.6,201.0"/>
+<path class="sch-grid" d="M179.8,189.0 L179.8,201.0"/>
+<path class="sch-grid" d="M134.9,189.0 L134.9,201.0"/>
+<path class="sch-grid" d="M175.6,189.0 L175.6,201.0"/>
+<path class="sch-grid" d="M165.1,189.0 L165.1,201.0"/>
+<path class="sch-grid" d="M148.2,189.0 L148.2,201.0"/>
+<path class="sch-grid" d="M168.2,189.0 L168.2,201.0"/>
+<path class="sch-grid" d="M46.9,189.0 L46.9,201.0"/>
+<path class="sch-grid" d="M180.4,189.0 L180.4,201.0"/>
+<path class="sch-grid" d="M87.1,189.0 L87.1,201.0"/>
+<path class="sch-grid" d="M154.6,189.0 L154.6,201.0"/>
+<path class="sch-grid" d="M169.3,189.0 L169.3,201.0"/>
+<path class="sch-grid" d="M129.6,189.0 L129.6,201.0"/>
+<path class="sch-grid" d="M145.9,189.0 L145.9,201.0"/>
+<path class="sch-grid" d="M143.2,189.0 L143.2,201.0"/>
+<path class="sch-grid" d="M193.8,189.0 L193.8,201.0"/>
+<path class="sch-grid" d="M170.9,189.0 L170.9,201.0"/>
+<path class="sch-grid" d="M151.7,189.0 L151.7,201.0"/>
+<path class="sch-grid" d="M183.6,189.0 L183.6,201.0"/>
+<path class="sch-grid" d="M137.9,189.0 L137.9,201.0"/>
+<path class="sch-grid" d="M165.3,189.0 L165.3,201.0"/>
+<path class="sch-grid" d="M165.2,189.0 L165.2,201.0"/>
+<path class="sch-grid" d="M137.5,189.0 L137.5,201.0"/>
+<path class="sch-grid" d="M152.9,189.0 L152.9,201.0"/>
+<path class="sch-grid" d="M58.5,189.0 L58.5,201.0"/>
+<path class="sch-grid" d="M168.9,189.0 L168.9,201.0"/>
+<path class="sch-grid" d="M162.0,189.0 L162.0,201.0"/>
+<path class="sch-grid" d="M88.2,189.0 L88.2,201.0"/>
+<path class="sch-grid" d="M147.1,189.0 L147.1,201.0"/>
+<path class="sch-grid" d="M171.3,189.0 L171.3,201.0"/>
+<path class="sch-grid" d="M74.4,189.0 L74.4,201.0"/>
+<path class="sch-grid" d="M169.6,189.0 L169.6,201.0"/>
+<path class="sch-grid" d="M185.1,189.0 L185.1,201.0"/>
+<path class="sch-grid" d="M70.1,189.0 L70.1,201.0"/>
+<path class="sch-grid" d="M127.7,189.0 L127.7,201.0"/>
+<path class="sch-grid" d="M156.4,189.0 L156.4,201.0"/>
+<path class="sch-grid" d="M123.9,189.0 L123.9,201.0"/>
+<path class="sch-grid" d="M200.2,189.0 L200.2,201.0"/>
+<path class="sch-grid" d="M157.3,189.0 L157.3,201.0"/>
+<path class="sch-grid" d="M193.8,189.0 L193.8,201.0"/>
+<path class="sch-grid" d="M144.2,189.0 L144.2,201.0"/>
+<path class="sch-grid" d="M132.1,189.0 L132.1,201.0"/>
+<path class="sch-grid" d="M85.4,189.0 L85.4,201.0"/>
+<path class="sch-grid" d="M203.3,189.0 L203.3,201.0"/>
+<path class="sch-grid" d="M171.1,189.0 L171.1,201.0"/>
+<path class="sch-grid" d="M171.1,189.0 L171.1,201.0"/>
+<path class="sch-grid" d="M184.5,189.0 L184.5,201.0"/>
+<path class="sch-grid" d="M157.1,189.0 L157.1,201.0"/>
+<path class="sch-grid" d="M122.8,189.0 L122.8,201.0"/>
+<path class="sch-grid" d="M192.5,189.0 L192.5,201.0"/>
+<path class="sch-grid" d="M124.3,189.0 L124.3,201.0"/>
+<path class="sch-grid" d="M133.9,189.0 L133.9,201.0"/>
+<path class="sch-grid" d="M152.8,189.0 L152.8,201.0"/>
+<path class="sch-grid" d="M165.0,189.0 L165.0,201.0"/>
+<path class="sch-grid" d="M85.0,189.0 L85.0,201.0"/>
+<path class="sch-grid" d="M144.8,189.0 L144.8,201.0"/>
+<path class="sch-grid" d="M187.1,189.0 L187.1,201.0"/>
+<path class="sch-grid" d="M171.3,189.0 L171.3,201.0"/>
+<path class="sch-grid" d="M152.5,189.0 L152.5,201.0"/>
+<path class="sch-grid" d="M134.0,189.0 L134.0,201.0"/>
+<path class="sch-grid" d="M155.2,189.0 L155.2,201.0"/>
+<path class="sch-grid" d="M136.6,189.0 L136.6,201.0"/>
+<path class="sch-grid" d="M173.3,189.0 L173.3,201.0"/>
+<path class="sch-grid" d="M149.7,189.0 L149.7,201.0"/>
+<path class="sch-grid" d="M141.2,189.0 L141.2,201.0"/>
+<path class="sch-grid" d="M163.8,189.0 L163.8,201.0"/>
+<path class="sch-grid" d="M152.8,189.0 L152.8,201.0"/>
+<path class="sch-grid" d="M233.5,189.0 L233.5,201.0"/>
+<path class="sch-grid" d="M197.0,189.0 L197.0,201.0"/>
+<path class="sch-grid" d="M196.9,189.0 L196.9,201.0"/>
+<path class="sch-grid" d="M74.3,189.0 L74.3,201.0"/>
+<path class="sch-grid" d="M133.2,189.0 L133.2,201.0"/>
+<path class="sch-grid" d="M123.9,189.0 L123.9,201.0"/>
+<path class="sch-grid" d="M163.5,189.0 L163.5,201.0"/>
+<path class="sch-grid" d="M65.9,189.0 L65.9,201.0"/>
+<path class="sch-grid" d="M185.7,189.0 L185.7,201.0"/>
+<path class="sch-grid" d="M182.0,189.0 L182.0,201.0"/>
+<path class="sch-grid" d="M146.5,189.0 L146.5,201.0"/>
+<path class="sch-grid" d="M167.2,189.0 L167.2,201.0"/>
+<path class="sch-grid" d="M216.0,189.0 L216.0,201.0"/>
+<path class="sch-grid" d="M138.2,189.0 L138.2,201.0"/>
+<path class="sch-grid" d="M171.6,189.0 L171.6,201.0"/>
+<path class="sch-grid" d="M150.4,189.0 L150.4,201.0"/>
+<path class="sch-grid" d="M206.0,189.0 L206.0,201.0"/>
+<path class="sch-grid" d="M170.7,189.0 L170.7,201.0"/>
+<path class="sch-grid" d="M192.5,189.0 L192.5,201.0"/>
+<path class="sch-grid" d="M138.3,189.0 L138.3,201.0"/>
+<path class="sch-grid" d="M197.2,189.0 L197.2,201.0"/>
+<path class="sch-grid" d="M167.8,189.0 L167.8,201.0"/>
+<path class="sch-grid" d="M134.4,189.0 L134.4,201.0"/>
+<path class="sch-grid" d="M129.3,189.0 L129.3,201.0"/>
+<path class="sch-grid" d="M161.8,189.0 L161.8,201.0"/>
+<path class="sch-grid" d="M120.7,189.0 L120.7,201.0"/>
+<path class="sch-grid" d="M161.7,189.0 L161.7,201.0"/>
+<path class="sch-grid" d="M230.4,189.0 L230.4,201.0"/>
+<path class="sch-grid" d="M136.5,189.0 L136.5,201.0"/>
+<path class="sch-grid" d="M125.7,189.0 L125.7,201.0"/>
+<path class="sch-grid" d="M163.2,189.0 L163.2,201.0"/>
+<path class="sch-grid" d="M174.5,189.0 L174.5,201.0"/>
+<path class="sch-grid" d="M145.3,189.0 L145.3,201.0"/>
+<path class="sch-grid" d="M156.5,189.0 L156.5,201.0"/>
+<path class="sch-grid" d="M149.0,189.0 L149.0,201.0"/>
+<path class="sch-grid" d="M149.8,189.0 L149.8,201.0"/>
+<path class="sch-grid" d="M92.1,189.0 L92.1,201.0"/>
+<path class="sch-grid" d="M129.1,189.0 L129.1,201.0"/>
+<path class="sch-grid" d="M148.9,189.0 L148.9,201.0"/>
+<path class="sch-grid" d="M128.5,189.0 L128.5,201.0"/>
+<path class="sch-grid" d="M133.4,189.0 L133.4,201.0"/>
+<path class="sch-grid" d="M174.6,189.0 L174.6,201.0"/>
+<path class="sch-grid" d="M130.9,189.0 L130.9,201.0"/>
+<path class="sch-grid" d="M139.7,189.0 L139.7,201.0"/>
+<path class="sch-grid" d="M173.2,189.0 L173.2,201.0"/>
+<path class="sch-grid" d="M167.4,189.0 L167.4,201.0"/>
+<path class="sch-grid" d="M203.8,189.0 L203.8,201.0"/>
+<path class="sch-grid" d="M72.5,189.0 L72.5,201.0"/>
+<path class="sch-grid" d="M174.7,189.0 L174.7,201.0"/>
+<path class="sch-grid" d="M128.3,189.0 L128.3,201.0"/>
+<path class="sch-grid" d="M149.7,189.0 L149.7,201.0"/>
+<path class="sch-grid" d="M174.1,189.0 L174.1,201.0"/>
+<path class="sch-grid" d="M182.6,189.0 L182.6,201.0"/>
+<path class="sch-grid" d="M181.1,189.0 L181.1,201.0"/>
+<path class="sch-grid" d="M150.4,189.0 L150.4,201.0"/>
+<path class="sch-grid" d="M200.8,189.0 L200.8,201.0"/>
+<path class="sch-grid" d="M135.2,189.0 L135.2,201.0"/>
+<path class="sch-grid" d="M140.1,189.0 L140.1,201.0"/>
+<path class="sch-grid" d="M172.7,189.0 L172.7,201.0"/>
+<path class="sch-grid" d="M125.9,189.0 L125.9,201.0"/>
+<path class="sch-grid" d="M220.0,189.0 L220.0,201.0"/>
+<path class="sch-grid" d="M180.4,189.0 L180.4,201.0"/>
+<path class="sch-grid" d="M220.5,189.0 L220.5,201.0"/>
+<path class="sch-grid" d="M144.1,189.0 L144.1,201.0"/>
+<path class="sch-grid" d="M131.7,189.0 L131.7,201.0"/>
+<path class="sch-grid" d="M150.8,189.0 L150.8,201.0"/>
+<path class="sch-grid" d="M170.5,189.0 L170.5,201.0"/>
+<path class="sch-grid" d="M124.6,189.0 L124.6,201.0"/>
+<path class="sch-grid" d="M158.2,189.0 L158.2,201.0"/>
+<path class="sch-grid" d="M144.4,189.0 L144.4,201.0"/>
+<path class="sch-grid" d="M201.0,189.0 L201.0,201.0"/>
+<path class="sch-grid" d="M122.0,189.0 L122.0,201.0"/>
+<path class="sch-grid" d="M181.3,189.0 L181.3,201.0"/>
+<path class="sch-grid" d="M122.7,189.0 L122.7,201.0"/>
+<path class="sch-grid" d="M120.4,189.0 L120.4,201.0"/>
+<path class="sch-grid" d="M150.1,189.0 L150.1,201.0"/>
+<path class="sch-grid" d="M180.8,189.0 L180.8,201.0"/>
+<path class="sch-grid" d="M150.7,189.0 L150.7,201.0"/>
+<path class="sch-grid" d="M166.7,189.0 L166.7,201.0"/>
+<path class="sch-grid" d="M201.6,189.0 L201.6,201.0"/>
+<path class="sch-grid" d="M154.4,189.0 L154.4,201.0"/>
+<path class="sch-grid" d="M151.8,189.0 L151.8,201.0"/>
+<path class="sch-grid" d="M135.5,189.0 L135.5,201.0"/>
+<path class="sch-grid" d="M89.2,189.0 L89.2,201.0"/>
+<path class="sch-grid" d="M171.4,189.0 L171.4,201.0"/>
+<path class="sch-grid" d="M84.1,189.0 L84.1,201.0"/>
+<path class="sch-grid" d="M167.6,189.0 L167.6,201.0"/>
+<path class="sch-grid" d="M144.5,189.0 L144.5,201.0"/>
+<path class="sch-grid" d="M184.1,189.0 L184.1,201.0"/>
+<path class="sch-grid" d="M142.6,189.0 L142.6,201.0"/>
+<path class="sch-grid" d="M157.4,189.0 L157.4,201.0"/>
+<path class="sch-grid" d="M125.6,189.0 L125.6,201.0"/>
+<path class="sch-grid" d="M138.7,189.0 L138.7,201.0"/>
+<path class="sch-grid" d="M146.5,189.0 L146.5,201.0"/>
+<path class="sch-grid" d="M140.3,189.0 L140.3,201.0"/>
+<path class="sch-grid" d="M138.5,189.0 L138.5,201.0"/>
+<path class="sch-grid" d="M138.4,189.0 L138.4,201.0"/>
+<path class="sch-grid" d="M70.8,189.0 L70.8,201.0"/>
+<path class="sch-grid" d="M139.5,189.0 L139.5,201.0"/>
+<path class="sch-grid" d="M183.9,189.0 L183.9,201.0"/>
+<path class="sch-grid" d="M189.1,189.0 L189.1,201.0"/>
+<path class="sch-grid" d="M77.3,189.0 L77.3,201.0"/>
+<path class="sch-grid" d="M150.0,189.0 L150.0,201.0"/>
+<path class="sch-grid" d="M140.6,189.0 L140.6,201.0"/>
+<path class="sch-grid" d="M163.4,189.0 L163.4,201.0"/>
+<path class="sch-grid" d="M129.0,189.0 L129.0,201.0"/>
+<path class="sch-grid" d="M83.7,189.0 L83.7,201.0"/>
+<path class="sch-grid" d="M135.7,189.0 L135.7,201.0"/>
+<path class="sch-grid" d="M139.9,189.0 L139.9,201.0"/>
+<path class="sch-grid" d="M148.7,189.0 L148.7,201.0"/>
+<path class="sch-grid" d="M166.4,189.0 L166.4,201.0"/>
+<path class="sch-grid" d="M170.5,189.0 L170.5,201.0"/>
+<path class="sch-grid" d="M122.1,189.0 L122.1,201.0"/>
+<path class="sch-grid" d="M142.2,189.0 L142.2,201.0"/>
+<path class="sch-grid" d="M125.4,189.0 L125.4,201.0"/>
+<path class="sch-grid" d="M205.5,189.0 L205.5,201.0"/>
+<path class="sch-grid" d="M152.2,189.0 L152.2,201.0"/>
+<path class="sch-grid" d="M143.0,189.0 L143.0,201.0"/>
+<path class="sch-grid" d="M224.6,189.0 L224.6,201.0"/>
+<path class="sch-grid" d="M138.8,189.0 L138.8,201.0"/>
+<path class="sch-grid" d="M149.4,189.0 L149.4,201.0"/>
+<path class="sch-grid" d="M162.8,189.0 L162.8,201.0"/>
+<path class="sch-grid" d="M143.6,189.0 L143.6,201.0"/>
+<path class="sch-grid" d="M224.1,189.0 L224.1,201.0"/>
+<path class="sch-grid" d="M126.6,189.0 L126.6,201.0"/>
+<path class="sch-grid" d="M170.8,189.0 L170.8,201.0"/>
+<path class="sch-grid" d="M150.6,189.0 L150.6,201.0"/>
+<path class="sch-grid" d="M166.5,189.0 L166.5,201.0"/>
+<path class="sch-grid" d="M206.3,189.0 L206.3,201.0"/>
+<path class="sch-grid" d="M140.8,189.0 L140.8,201.0"/>
+<path class="sch-grid" d="M146.2,189.0 L146.2,201.0"/>
+<path class="sch-grid" d="M119.7,189.0 L119.7,201.0"/>
+<path class="sch-grid" d="M164.6,189.0 L164.6,201.0"/>
+<path class="sch-grid" d="M179.2,189.0 L179.2,201.0"/>
+<path class="sch-grid" d="M171.1,189.0 L171.1,201.0"/>
+<path class="sch-grid" d="M186.9,189.0 L186.9,201.0"/>
+<path class="sch-grid" d="M169.8,189.0 L169.8,201.0"/>
+<path class="sch-grid" d="M146.0,189.0 L146.0,201.0"/>
+<path class="sch-grid" d="M174.0,189.0 L174.0,201.0"/>
+<path class="sch-grid" d="M165.6,189.0 L165.6,201.0"/>
+<path class="sch-grid" d="M141.5,189.0 L141.5,201.0"/>
+<path class="sch-grid" d="M170.2,189.0 L170.2,201.0"/>
+<path class="sch-grid" d="M189.6,189.0 L189.6,201.0"/>
+<path class="sch-grid" d="M153.1,189.0 L153.1,201.0"/>
+<path class="sch-grid" d="M132.6,189.0 L132.6,201.0"/>
+<path class="sch-grid" d="M169.9,189.0 L169.9,201.0"/>
+<path class="sch-grid" d="M210.9,189.0 L210.9,201.0"/>
+<path class="sch-grid" d="M137.7,189.0 L137.7,201.0"/>
+<path class="sch-grid" d="M141.8,189.0 L141.8,201.0"/>
+<path class="sch-grid" d="M140.3,189.0 L140.3,201.0"/>
+<path class="sch-grid" d="M187.4,189.0 L187.4,201.0"/>
+<path class="sch-grid" d="M81.3,189.0 L81.3,201.0"/>
+<path class="sch-grid" d="M157.7,189.0 L157.7,201.0"/>
+<path class="sch-grid" d="M186.4,189.0 L186.4,201.0"/>
+<path class="sch-grid" d="M196.6,189.0 L196.6,201.0"/>
+<path class="sch-grid" d="M163.6,189.0 L163.6,201.0"/>
+<path class="sch-grid" d="M126.0,189.0 L126.0,201.0"/>
+<path class="sch-grid" d="M152.1,189.0 L152.1,201.0"/>
+<path class="sch-grid" d="M91.8,189.0 L91.8,201.0"/>
+<path class="sch-grid" d="M125.4,189.0 L125.4,201.0"/>
+<path class="sch-grid" d="M208.4,189.0 L208.4,201.0"/>
+<path class="sch-grid" d="M209.0,189.0 L209.0,201.0"/>
+<path class="sch-grid" d="M142.2,189.0 L142.2,201.0"/>
+<path class="sch-grid" d="M179.5,189.0 L179.5,201.0"/>
+<path class="sch-grid" d="M146.5,189.0 L146.5,201.0"/>
+<path class="sch-grid" d="M67.2,189.0 L67.2,201.0"/>
+<path class="sch-grid" d="M125.1,189.0 L125.1,201.0"/>
+<path class="sch-grid" d="M151.6,189.0 L151.6,201.0"/>
+<path class="sch-grid" d="M157.7,189.0 L157.7,201.0"/>
+<path class="sch-grid" d="M122.5,189.0 L122.5,201.0"/>
+<path class="sch-grid" d="M86.2,189.0 L86.2,201.0"/>
+<path class="sch-grid" d="M121.3,189.0 L121.3,201.0"/>
+<path class="sch-grid" d="M174.9,189.0 L174.9,201.0"/>
+<path class="sch-grid" d="M128.6,189.0 L128.6,201.0"/>
+<path class="sch-grid" d="M177.4,189.0 L177.4,201.0"/>
+<path class="sch-grid" d="M198.0,189.0 L198.0,201.0"/>
+<path class="sch-grid" d="M146.1,189.0 L146.1,201.0"/>
+<path class="sch-grid" d="M144.1,189.0 L144.1,201.0"/>
+<path class="sch-grid" d="M175.6,189.0 L175.6,201.0"/>
+<path class="sch-grid" d="M154.3,189.0 L154.3,201.0"/>
+<path class="sch-grid" d="M164.0,189.0 L164.0,201.0"/>
+<path class="sch-grid" d="M129.6,189.0 L129.6,201.0"/>
+<path class="sch-grid" d="M155.4,189.0 L155.4,201.0"/>
+<path class="sch-line sch-thin" d="M115.0,189.0 L115.0,201.0"/>
+<path class="sch-line sch-thin" d="M108.4,189.0 L108.4,201.0"/>
+<path class="sch-line sch-thin" d="M114.3,189.0 L114.3,201.0"/>
+<path class="sch-line sch-thin" d="M111.7,189.0 L111.7,201.0"/>
+<path class="sch-line sch-thin" d="M107.7,189.0 L107.7,201.0"/>
+<path class="sch-line sch-thin" d="M112.9,189.0 L112.9,201.0"/>
+<path class="sch-line sch-thin" d="M117.8,189.0 L117.8,201.0"/>
+<path class="sch-line sch-thin" d="M111.6,189.0 L111.6,201.0"/>
+<path class="sch-line sch-thin" d="M113.3,189.0 L113.3,201.0"/>
+<path class="sch-line sch-thin" d="M103.7,189.0 L103.7,201.0"/>
+<path class="sch-line sch-thin" d="M108.6,189.0 L108.6,201.0"/>
+<path class="sch-line sch-thin" d="M117.2,189.0 L117.2,201.0"/>
+<path class="sch-line sch-thin" d="M117.2,189.0 L117.2,201.0"/>
+<path class="sch-line sch-thin" d="M94.3,189.0 L94.3,201.0"/>
+<path class="sch-line sch-thin" d="M101.7,189.0 L101.7,201.0"/>
+<path class="sch-line sch-thin" d="M117.4,189.0 L117.4,201.0"/>
+<path class="sch-line sch-thin" d="M99.8,189.0 L99.8,201.0"/>
+<path class="sch-line sch-thin" d="M111.1,189.0 L111.1,201.0"/>
+<path class="sch-line sch-thin" d="M117.2,189.0 L117.2,201.0"/>
+<path class="sch-line sch-thin" d="M107.6,189.0 L107.6,201.0"/>
+<path class="sch-line sch-thin" d="M116.8,189.0 L116.8,201.0"/>
+<path class="sch-line sch-thin" d="M112.7,189.0 L112.7,201.0"/>
+<path class="sch-line sch-thin" d="M104.4,189.0 L104.4,201.0"/>
+<path class="sch-line sch-thin" d="M98.7,189.0 L98.7,201.0"/>
+<path class="sch-line sch-thin" d="M117.8,189.0 L117.8,201.0"/>
+<path class="sch-line sch-thin" d="M116.6,189.0 L116.6,201.0"/>
+<path class="sch-line sch-thin" d="M111.7,189.0 L111.7,201.0"/>
+<path class="sch-line sch-thin" d="M103.7,189.0 L103.7,201.0"/>
+<path class="sch-line sch-thin" d="M116.4,189.0 L116.4,201.0"/>
+<path class="sch-line sch-thin" d="M116.1,189.0 L116.1,201.0"/>
+<path class="sch-line sch-thin" d="M103.4,189.0 L103.4,201.0"/>
+<path class="sch-line sch-thin" d="M108.7,189.0 L108.7,201.0"/>
+<path class="sch-line sch-thin" d="M102.3,189.0 L102.3,201.0"/>
+<path class="sch-line sch-thin" d="M105.3,189.0 L105.3,201.0"/>
+<path class="sch-line sch-thin" d="M109.9,189.0 L109.9,201.0"/>
+<path class="sch-line sch-thin" d="M117.7,189.0 L117.7,201.0"/>
+<path class="sch-line sch-thin" d="M104.2,189.0 L104.2,201.0"/>
+<path class="sch-line sch-thin" d="M112.6,189.0 L112.6,201.0"/>
+<path class="sch-line sch-thin" d="M116.8,189.0 L116.8,201.0"/>
+<path class="sch-line sch-thin" d="M114.0,189.0 L114.0,201.0"/>
+<path class="sch-line sch-thin" d="M105.1,189.0 L105.1,201.0"/>
+<path class="sch-line sch-thin" d="M98.3,189.0 L98.3,201.0"/>
+<path class="sch-line sch-thin" d="M105.8,189.0 L105.8,201.0"/>
+<path class="sch-line sch-thin" d="M99.9,189.0 L99.9,201.0"/>
+<text class="sch-tex sch-tex-tiny" x="145.0" y="215.0" text-anchor="middle">0</text>
+<text class="sch-tex sch-tex-small" x="100.1" y="88.9" text-anchor="end">g^{-1}[A]</text>
+<circle class="sch-grid" cx="575.0" cy="145.0" r="85.0"/>
+<path class="sch-region" d="M663.8,103.6 L662.8,101.4 L661.7,99.3 L660.5,97.1 L659.3,95.1 L658.1,93.0 L656.8,91.0 L655.4,89.0 L654.0,87.0 L652.5,85.1 L651.0,83.2 L649.5,81.3 L647.9,79.5 L646.3,77.7 L644.6,76.0 L642.9,74.3 L641.1,72.7 L639.3,71.1 L637.5,69.5 L635.6,68.0 L633.7,66.5 L631.7,65.1 L629.8,63.7 L627.7,62.4 L625.7,61.1 L623.6,59.9 L621.5,58.7 L619.4,57.6 L617.2,56.6 L615.0,55.5 L612.8,54.6 L610.6,53.7 L608.3,52.8 L606.0,52.0 L603.7,51.3 L601.4,50.6 L599.1,50.0 L596.7,49.4 L594.4,48.9 L592.0,48.5 L587.5,74.1 L589.2,74.4 L591.0,74.8 L592.7,75.2 L594.4,75.7 L596.1,76.2 L597.8,76.7 L599.5,77.3 L601.1,77.9 L602.8,78.6 L604.4,79.3 L606.0,80.0 L607.6,80.8 L609.2,81.6 L610.7,82.5 L612.2,83.4 L613.8,84.3 L615.2,85.3 L616.7,86.3 L618.1,87.3 L619.5,88.4 L620.9,89.5 L622.3,90.7 L623.6,91.9 L624.9,93.1 L626.1,94.3 L627.4,95.6 L628.6,96.9 L629.7,98.2 L630.9,99.6 L632.0,101.0 L633.0,102.4 L634.1,103.8 L635.1,105.3 L636.0,106.8 L636.9,108.3 L637.8,109.8 L638.7,111.4 L639.5,113.0 L640.3,114.6 Z"/>
+<path class="sch-grid" d="M653.3,155.2 L665.2,156.8"/>
+<path class="sch-grid" d="M654.0,142.4 L665.9,142.0"/>
+<path class="sch-grid" d="M533.5,212.2 L527.2,222.5"/>
+<path class="sch-grid" d="M557.7,67.9 L555.1,56.2"/>
+<path class="sch-grid" d="M539.0,74.7 L533.5,64.0"/>
+<path class="sch-grid" d="M507.1,104.6 L496.8,98.5"/>
+<path class="sch-grid" d="M653.3,134.3 L665.2,132.6"/>
+<path class="sch-grid" d="M508.8,102.0 L498.7,95.4"/>
+<path class="sch-grid" d="M654.0,145.2 L666.0,145.3"/>
+<path class="sch-grid" d="M508.1,187.0 L498.0,193.4"/>
+<path class="sch-grid" d="M523.8,84.8 L516.0,75.7"/>
+<path class="sch-grid" d="M514.4,94.4 L505.2,86.7"/>
+<path class="sch-grid" d="M574.0,66.0 L573.8,54.0"/>
+<path class="sch-grid" d="M529.4,80.5 L522.5,70.7"/>
+<path class="sch-grid" d="M543.7,217.5 L538.9,228.5"/>
+<path class="sch-grid" d="M509.5,100.9 L499.5,94.2"/>
+<path class="sch-grid" d="M613.5,214.0 L619.3,224.5"/>
+<path class="sch-grid" d="M505.6,107.3 L495.0,101.6"/>
+<path class="sch-grid" d="M496.1,149.8 L484.2,150.5"/>
+<path class="sch-grid" d="M648.3,174.6 L659.4,179.1"/>
+<path class="sch-grid" d="M554.0,221.2 L550.8,232.7"/>
+<path class="sch-grid" d="M547.4,71.0 L543.3,59.7"/>
+<path class="sch-grid" d="M504.1,110.2 L493.3,104.9"/>
+<path class="sch-grid" d="M553.2,220.9 L549.9,232.5"/>
+<path class="sch-grid" d="M652.9,158.1 L664.7,160.1"/>
+<path class="sch-grid" d="M513.0,96.1 L503.5,88.7"/>
+<path class="sch-grid" d="M510.0,100.1 L500.1,93.3"/>
+<path class="sch-grid" d="M618.1,211.2 L624.7,221.2"/>
+<path class="sch-grid" d="M515.7,92.8 L506.6,84.9"/>
+<path class="sch-grid" d="M604.7,218.2 L609.2,229.3"/>
+<path class="sch-grid" d="M559.8,222.5 L557.5,234.3"/>
+<path class="sch-grid" d="M498.1,162.9 L486.4,165.7"/>
+<path class="sch-grid" d="M574.3,224.0 L574.2,236.0"/>
+<path class="sch-grid" d="M654.0,143.8 L666.0,143.7"/>
+<path class="sch-grid" d="M620.0,209.9 L626.8,219.8"/>
+<path class="sch-grid" d="M650.5,121.7 L662.0,118.2"/>
+<path class="sch-grid" d="M513.8,194.9 L504.5,202.5"/>
+<path class="sch-grid" d="M579.1,223.9 L579.7,235.9"/>
+<path class="sch-grid" d="M537.7,75.4 L532.0,64.8"/>
+<path class="sch-grid" d="M496.2,150.2 L484.2,151.0"/>
+<path class="sch-grid" d="M496.7,134.6 L484.8,133.0"/>
+<path class="sch-grid" d="M644.2,183.0 L654.8,188.8"/>
+<path class="sch-grid" d="M586.2,223.2 L587.9,235.1"/>
+<path class="sch-grid" d="M505.0,181.7 L494.4,187.2"/>
+<path class="sch-grid" d="M627.9,203.6 L636.0,212.6"/>
+<path class="sch-grid" d="M506.1,106.3 L495.6,100.5"/>
+<path class="sch-grid" d="M560.4,222.6 L558.2,234.4"/>
+<path class="sch-grid" d="M560.1,222.6 L557.9,234.4"/>
+<path class="sch-grid" d="M507.0,104.8 L496.7,98.7"/>
+<path class="sch-grid" d="M508.5,187.6 L498.4,194.1"/>
+<path class="sch-grid" d="M653.9,141.9 L665.9,141.4"/>
+<path class="sch-grid" d="M577.5,224.0 L577.8,236.0"/>
+<path class="sch-grid" d="M545.2,218.2 L540.7,229.3"/>
+<path class="sch-grid" d="M650.0,120.3 L661.4,116.5"/>
+<path class="sch-grid" d="M496.9,157.1 L485.1,158.9"/>
+<path class="sch-grid" d="M587.6,223.0 L589.5,234.8"/>
+<path class="sch-grid" d="M653.3,134.6 L665.2,133.0"/>
+<path class="sch-grid" d="M580.5,223.8 L581.3,235.8"/>
+<path class="sch-grid" d="M631.3,200.4 L639.8,208.8"/>
+<path class="sch-grid" d="M653.6,137.3 L665.6,136.2"/>
+<path class="sch-grid" d="M546.3,71.4 L541.9,60.2"/>
+<path class="sch-grid" d="M520.4,202.1 L512.1,210.8"/>
+<path class="sch-grid" d="M564.5,66.7 L562.9,54.8"/>
+<path class="sch-grid" d="M649.2,172.2 L660.5,176.3"/>
+<path class="sch-grid" d="M524.1,205.4 L516.3,214.6"/>
+<path class="sch-grid" d="M644.3,183.0 L654.8,188.8"/>
+<path class="sch-grid" d="M496.1,140.7 L484.1,140.1"/>
+<path class="sch-grid" d="M526.6,82.5 L519.3,73.0"/>
+<path class="sch-grid" d="M651.1,124.0 L662.7,120.8"/>
+<path class="sch-grid" d="M650.7,167.7 L662.2,171.1"/>
+<path class="sch-grid" d="M587.0,223.1 L588.8,234.9"/>
+<path class="sch-grid" d="M587.1,223.1 L588.9,234.9"/>
+<path class="sch-grid" d="M629.9,201.8 L638.3,210.4"/>
+<path class="sch-grid" d="M523.3,204.8 L515.5,213.8"/>
+<path class="sch-grid" d="M569.4,66.2 L568.5,54.2"/>
+<path class="sch-grid" d="M642.9,185.4 L653.2,191.5"/>
+<path class="sch-grid" d="M562.4,67.0 L560.5,55.2"/>
+<path class="sch-grid" d="M519.5,88.8 L511.1,80.3"/>
+<path class="sch-grid" d="M508.0,186.9 L497.8,193.2"/>
+<path class="sch-grid" d="M559.0,222.4 L556.5,234.1"/>
+<path class="sch-grid" d="M651.3,124.5 L662.9,121.4"/>
+<path class="sch-grid" d="M496.0,144.1 L484.0,144.0"/>
+<path class="sch-grid" d="M635.1,196.3 L644.2,204.1"/>
+<path class="sch-grid" d="M587.6,223.0 L589.5,234.8"/>
+<path class="sch-grid" d="M507.1,185.4 L496.8,191.5"/>
+<path class="sch-grid" d="M518.9,89.3 L510.4,80.9"/>
+<path class="sch-grid" d="M515.8,197.4 L506.9,205.3"/>
+<path class="sch-grid" d="M510.0,100.1 L500.1,93.3"/>
+<path class="sch-grid" d="M596.1,221.1 L599.3,232.7"/>
+<path class="sch-grid" d="M500.4,171.0 L489.1,175.0"/>
+<path class="sch-grid" d="M499.0,123.4 L487.5,120.1"/>
+<path class="sch-grid" d="M553.7,221.1 L550.5,232.6"/>
+<path class="sch-grid" d="M508.0,186.9 L497.8,193.2"/>
+<path class="sch-grid" d="M654.0,147.7 L665.9,148.1"/>
+<path class="sch-grid" d="M647.1,177.3 L658.1,182.2"/>
+<path class="sch-grid" d="M647.1,177.4 L658.0,182.3"/>
+<path class="sch-grid" d="M653.3,134.8 L665.2,133.2"/>
+<path class="sch-grid" d="M522.1,86.3 L514.0,77.4"/>
+<path class="sch-grid" d="M564.4,66.7 L562.8,54.8"/>
+<path class="sch-grid" d="M552.0,220.6 L548.5,232.0"/>
+<path class="sch-grid" d="M653.8,139.4 L665.8,138.5"/>
+<path class="sch-grid" d="M632.6,199.1 L641.3,207.3"/>
+<path class="sch-grid" d="M624.2,206.8 L631.7,216.2"/>
+<path class="sch-grid" d="M496.5,153.6 L484.5,154.9"/>
+<path class="sch-grid" d="M569.7,223.8 L568.8,235.8"/>
+<path class="sch-grid" d="M653.4,155.0 L665.3,156.6"/>
+<path class="sch-grid" d="M505.4,107.7 L494.8,102.0"/>
+<path class="sch-grid" d="M589.1,222.7 L591.3,234.5"/>
+<path class="sch-grid" d="M501.9,174.9 L490.8,179.4"/>
+<path class="sch-grid" d="M651.6,164.3 L663.3,167.2"/>
+<path class="sch-grid" d="M585.4,223.3 L587.0,235.2"/>
+<path class="sch-grid" d="M642.9,185.5 L653.2,191.6"/>
+<path class="sch-grid" d="M504.9,108.6 L494.2,103.1"/>
+<path class="sch-grid" d="M647.3,176.9 L658.2,181.8"/>
+<path class="sch-grid" d="M572.3,224.0 L571.9,235.9"/>
+<path class="sch-grid" d="M517.4,91.0 L508.6,82.8"/>
+<path class="sch-grid" d="M538.9,74.7 L533.4,64.0"/>
+<path class="sch-grid" d="M544.1,217.7 L539.4,228.8"/>
+<path class="sch-grid" d="M579.2,66.1 L579.9,54.1"/>
+<path class="sch-grid" d="M543.6,217.5 L538.8,228.5"/>
+<path class="sch-grid" d="M653.9,148.4 L665.9,148.9"/>
+<path class="sch-grid" d="M510.3,99.7 L500.5,92.8"/>
+<path class="sch-grid" d="M555.8,68.4 L552.8,56.7"/>
+<path class="sch-grid" d="M550.7,220.2 L547.0,231.6"/>
+<path class="sch-grid" d="M600.6,219.7 L604.5,231.1"/>
+<path class="sch-grid" d="M496.0,146.8 L484.0,147.1"/>
+<path class="sch-grid" d="M521.0,202.7 L512.8,211.4"/>
+<path class="sch-grid" d="M499.3,167.6 L487.8,171.0"/>
+<path class="sch-grid" d="M500.7,171.8 L489.4,175.9"/>
+<path class="sch-grid" d="M647.8,114.3 L658.9,109.7"/>
+<path class="sch-grid" d="M539.8,74.3 L534.5,63.5"/>
+<path class="sch-grid" d="M499.1,166.7 L487.5,170.0"/>
+<path class="sch-grid" d="M542.8,72.9 L537.9,61.9"/>
+<path class="sch-grid" d="M521.1,87.2 L513.0,78.4"/>
+<path class="sch-grid" d="M600.9,219.6 L604.9,231.0"/>
+<path class="sch-grid" d="M531.8,78.9 L525.2,68.8"/>
+<path class="sch-grid" d="M501.8,115.4 L490.6,110.9"/>
+<path class="sch-grid" d="M595.7,221.3 L598.8,232.8"/>
+<path class="sch-grid" d="M570.3,223.9 L569.5,235.8"/>
+<path class="sch-grid" d="M650.9,167.0 L662.4,170.4"/>
+<path class="sch-grid" d="M653.5,135.9 L665.4,134.6"/>
+<path class="sch-grid" d="M601.4,219.5 L605.4,230.8"/>
+<path class="sch-grid" d="M543.7,72.5 L539.0,61.4"/>
+<path class="sch-grid" d="M500.4,171.1 L489.1,175.1"/>
+<path class="sch-grid" d="M598.9,220.3 L602.5,231.7"/>
+<path class="sch-grid" d="M625.6,205.7 L633.3,214.9"/>
+<path class="sch-grid" d="M621.7,208.7 L628.8,218.4"/>
+<path class="sch-grid" d="M501.8,174.8 L490.7,179.4"/>
+<path class="sch-grid" d="M649.5,171.2 L660.9,175.1"/>
+<path class="sch-grid" d="M514.6,94.1 L505.4,86.4"/>
+<path class="sch-grid" d="M500.8,117.7 L489.6,113.6"/>
+<path class="sch-grid" d="M593.7,221.8 L596.5,233.4"/>
+<path class="sch-grid" d="M555.0,68.6 L552.0,57.0"/>
+<path class="sch-grid" d="M653.6,152.6 L665.6,153.8"/>
+<path class="sch-grid" d="M619.8,210.1 L626.6,220.0"/>
+<path class="sch-grid" d="M653.7,152.3 L665.6,153.4"/>
+<path class="sch-grid" d="M496.2,139.7 L484.2,138.9"/>
+<path class="sch-grid" d="M528.2,81.3 L521.1,71.7"/>
+<path class="sch-grid" d="M502.8,177.0 L491.8,181.8"/>
+<path class="sch-grid" d="M584.3,223.5 L585.7,235.4"/>
+<path class="sch-grid" d="M560.9,67.3 L558.8,55.5"/>
+<path class="sch-grid" d="M527.7,208.3 L520.6,217.9"/>
+<path class="sch-grid" d="M496.1,141.7 L484.1,141.2"/>
+<path class="sch-grid" d="M649.6,170.9 L661.0,174.8"/>
+<path class="sch-grid" d="M573.1,66.0 L572.8,54.0"/>
+<path class="sch-grid" d="M622.3,208.2 L629.5,217.9"/>
+<path class="sch-grid" d="M570.1,66.2 L569.4,54.2"/>
+<path class="sch-grid" d="M580.6,66.2 L581.4,54.2"/>
+<path class="sch-grid" d="M501.2,173.2 L490.0,177.5"/>
+<path class="sch-grid" d="M620.9,209.3 L627.9,219.0"/>
+<path class="sch-grid" d="M502.5,176.5 L491.5,181.3"/>
+<path class="sch-grid" d="M567.0,223.6 L565.7,235.5"/>
+<path class="sch-grid" d="M649.9,170.0 L661.3,173.8"/>
+<path class="sch-grid" d="M513.0,194.0 L503.6,201.4"/>
+<path class="sch-grid" d="M505.2,181.9 L494.5,187.5"/>
+<path class="sch-grid" d="M513.6,95.3 L504.3,87.7"/>
+<path class="sch-grid" d="M649.5,118.8 L660.8,114.8"/>
+<path class="sch-grid" d="M588.0,222.9 L590.0,234.8"/>
+<path class="sch-grid" d="M651.6,125.6 L663.2,122.6"/>
+<path class="sch-grid" d="M571.5,223.9 L571.0,235.9"/>
+<path class="sch-grid" d="M496.1,142.2 L484.1,141.7"/>
+<path class="sch-grid" d="M629.1,202.6 L637.3,211.3"/>
+<path class="sch-grid" d="M497.1,131.7 L485.3,129.6"/>
+<path class="sch-grid" d="M524.6,205.8 L516.9,215.0"/>
+<path class="sch-grid" d="M556.5,68.2 L553.7,56.5"/>
+<path class="sch-grid" d="M503.9,110.6 L493.1,105.3"/>
+<path class="sch-grid" d="M496.4,153.3 L484.5,154.5"/>
+<path class="sch-grid" d="M500.4,118.9 L489.1,115.0"/>
+<path class="sch-grid" d="M504.6,109.2 L493.9,103.7"/>
+<path class="sch-grid" d="M504.6,109.1 L493.9,103.7"/>
+<path class="sch-grid" d="M653.6,137.0 L665.5,135.7"/>
+<path class="sch-grid" d="M502.0,114.8 L490.9,110.2"/>
+<path class="sch-grid" d="M628.6,203.0 L636.7,211.8"/>
+<path class="sch-grid" d="M638.3,192.3 L647.9,199.4"/>
+<path class="sch-grid" d="M653.0,132.4 L664.8,130.5"/>
+<path class="sch-grid" d="M501.1,173.0 L489.9,177.2"/>
+<path class="sch-grid" d="M499.9,120.5 L488.5,116.7"/>
+<path class="sch-grid" d="M551.8,220.5 L548.3,232.0"/>
+<path class="sch-grid" d="M540.4,74.0 L535.1,63.2"/>
+<path class="sch-grid" d="M651.7,126.0 L663.3,123.2"/>
+<path class="sch-grid" d="M512.6,96.5 L503.1,89.2"/>
+<path class="sch-grid" d="M501.4,116.4 L490.2,112.1"/>
+<path class="sch-grid" d="M498.8,165.8 L487.2,168.9"/>
+<path class="sch-grid" d="M565.6,223.4 L564.1,235.3"/>
+<path class="sch-grid" d="M584.4,223.4 L585.8,235.4"/>
+<path class="sch-grid" d="M572.5,66.0 L572.1,54.0"/>
+<path class="sch-grid" d="M497.6,129.2 L485.8,126.8"/>
+<path class="sch-grid" d="M557.4,68.0 L554.7,56.3"/>
+<path class="sch-grid" d="M651.4,164.9 L663.1,168.0"/>
+<path class="sch-grid" d="M506.4,184.2 L496.0,190.1"/>
+<path class="sch-grid" d="M496.8,133.7 L484.9,131.9"/>
+<path class="sch-grid" d="M653.8,150.4 L665.8,151.2"/>
+<path class="sch-grid" d="M503.7,111.0 L492.8,105.9"/>
+<path class="sch-grid" d="M500.0,169.8 L488.6,173.5"/>
+<path class="sch-grid" d="M548.9,219.6 L544.9,230.9"/>
+<path class="sch-grid" d="M496.4,137.1 L484.5,135.9"/>
+<path class="sch-grid" d="M653.8,150.6 L665.8,151.4"/>
+<path class="sch-grid" d="M551.8,69.5 L548.2,58.0"/>
+<path class="sch-grid" d="M585.7,223.3 L587.3,235.2"/>
+<path class="sch-grid" d="M502.2,175.8 L491.2,180.5"/>
+<path class="sch-grid" d="M566.5,223.5 L565.2,235.5"/>
+<path class="sch-grid" d="M651.7,163.9 L663.3,166.8"/>
+<path class="sch-grid" d="M499.6,121.4 L488.2,117.8"/>
+<path class="sch-grid" d="M496.3,151.8 L484.3,152.8"/>
+<path class="sch-grid" d="M583.5,66.5 L584.8,54.5"/>
+<path class="sch-grid" d="M557.1,222.0 L554.4,233.6"/>
+<path class="sch-grid" d="M616.5,212.2 L622.8,222.4"/>
+<path class="sch-grid" d="M587.0,223.1 L588.9,234.9"/>
+<path class="sch-grid" d="M634.8,196.6 L643.9,204.5"/>
+<path class="sch-grid" d="M581.2,223.8 L582.2,235.7"/>
+<path class="sch-grid" d="M496.2,150.6 L484.2,151.5"/>
+<path class="sch-grid" d="M598.7,220.3 L602.3,231.8"/>
+<path class="sch-grid" d="M562.0,222.9 L560.0,234.8"/>
+<path class="sch-grid" d="M498.5,125.3 L486.9,122.3"/>
+<path class="sch-grid" d="M583.0,223.6 L584.2,235.5"/>
+<path class="sch-grid" d="M639.1,191.1 L648.9,198.2"/>
+<path class="sch-grid" d="M509.0,188.5 L499.0,195.1"/>
+<path class="sch-grid" d="M524.3,84.4 L516.6,75.2"/>
+<path class="sch-grid" d="M581.9,223.7 L582.9,235.7"/>
+<path class="sch-grid" d="M652.7,159.2 L664.5,161.3"/>
+<path class="sch-grid" d="M506.6,105.5 L496.2,99.5"/>
+<path class="sch-grid" d="M498.1,126.9 L486.4,124.2"/>
+<path class="sch-grid" d="M500.5,118.6 L489.2,114.6"/>
+<path class="sch-grid" d="M635.7,195.6 L644.9,203.3"/>
+<path class="sch-grid" d="M652.3,128.7 L664.0,126.2"/>
+<path class="sch-grid" d="M525.7,206.7 L518.2,216.1"/>
+<path class="sch-grid" d="M633.7,197.8 L642.7,205.9"/>
+<path class="sch-grid" d="M646.8,177.8 L657.8,182.8"/>
+<path class="sch-grid" d="M552.4,220.7 L548.9,232.2"/>
+<path class="sch-grid" d="M554.6,68.7 L551.5,57.1"/>
+<path class="sch-grid" d="M506.0,183.4 L495.5,189.3"/>
+<path class="sch-grid" d="M648.0,114.8 L659.1,110.2"/>
+<path class="sch-grid" d="M557.4,68.0 L554.7,56.3"/>
+<path class="sch-grid" d="M652.2,161.7 L663.9,164.2"/>
+<path class="sch-grid" d="M652.4,161.0 L664.1,163.5"/>
+<path class="sch-grid" d="M497.6,129.0 L485.9,126.5"/>
+<path class="sch-grid" d="M617.4,211.7 L623.8,221.8"/>
+<path class="sch-grid" d="M496.5,153.7 L484.5,155.0"/>
+<path class="sch-grid" d="M653.8,138.8 L665.7,137.9"/>
+<path class="sch-grid" d="M558.5,67.7 L556.0,56.0"/>
+<path class="sch-grid" d="M504.7,181.0 L494.0,186.5"/>
+<path class="sch-grid" d="M525.8,206.8 L518.3,216.2"/>
+<path class="sch-grid" d="M571.0,66.1 L570.4,54.1"/>
+<path class="sch-grid" d="M650.9,123.0 L662.4,119.6"/>
+<path class="sch-grid" d="M576.5,66.0 L576.7,54.0"/>
+<path class="sch-grid" d="M601.9,219.3 L606.0,230.6"/>
+<path class="sch-grid" d="M542.3,73.1 L537.4,62.1"/>
+<path class="sch-grid" d="M610.9,215.4 L616.3,226.1"/>
+<path class="sch-grid" d="M647.8,175.6 L658.9,180.3"/>
+<path class="sch-grid" d="M496.3,151.4 L484.3,152.4"/>
+<path class="sch-grid" d="M496.2,139.8 L484.2,139.0"/>
+<path class="sch-grid" d="M604.5,218.3 L609.0,229.4"/>
+<path class="sch-grid" d="M512.9,193.8 L503.5,201.2"/>
+<path class="sch-grid" d="M554.3,221.3 L551.2,232.8"/>
+<path class="sch-grid" d="M537.5,75.5 L531.8,64.9"/>
+<path class="sch-grid" d="M516.8,198.4 L507.9,206.5"/>
+<path class="sch-line sch-thin" d="M602.5,70.9 L606.7,59.7"/>
+<path class="sch-line sch-thin" d="M623.2,82.4 L630.5,72.9"/>
+<path class="sch-line sch-thin" d="M605.1,72.0 L609.7,60.9"/>
+<path class="sch-line sch-thin" d="M613.7,76.1 L619.5,65.6"/>
+<path class="sch-line sch-thin" d="M625.0,83.9 L632.6,74.6"/>
+<path class="sch-line sch-thin" d="M609.9,74.1 L615.2,63.3"/>
+<path class="sch-line sch-thin" d="M591.3,67.7 L593.8,56.0"/>
+<path class="sch-line sch-thin" d="M614.1,76.4 L620.1,66.0"/>
+<path class="sch-line sch-thin" d="M608.5,73.5 L613.6,62.6"/>
+<path class="sch-line sch-thin" d="M633.7,92.1 L642.6,84.1"/>
+<path class="sch-line sch-thin" d="M622.5,81.9 L629.8,72.3"/>
+<path class="sch-line sch-thin" d="M593.8,68.3 L596.6,56.6"/>
+<path class="sch-line sch-thin" d="M593.8,68.3 L596.6,56.6"/>
+<path class="sch-line sch-thin" d="M646.0,110.4 L656.8,105.2"/>
+<path class="sch-line sch-thin" d="M637.2,96.3 L646.6,88.9"/>
+<path class="sch-line sch-thin" d="M593.0,68.1 L595.7,56.4"/>
+<path class="sch-line sch-thin" d="M639.9,100.0 L649.8,93.2"/>
+<path class="sch-line sch-thin" d="M615.7,77.3 L621.9,67.0"/>
+<path class="sch-line sch-thin" d="M593.9,68.3 L596.8,56.6"/>
+<path class="sch-line sch-thin" d="M625.1,83.9 L632.7,74.7"/>
+<path class="sch-line sch-thin" d="M595.7,68.7 L598.8,57.2"/>
+<path class="sch-line sch-thin" d="M610.4,74.4 L615.8,63.7"/>
+<path class="sch-line sch-thin" d="M632.3,90.6 L641.0,82.4"/>
+<path class="sch-line sch-thin" d="M641.5,102.3 L651.5,95.8"/>
+<path class="sch-line sch-thin" d="M591.4,67.7 L593.9,56.0"/>
+<path class="sch-line sch-thin" d="M596.4,69.0 L599.6,57.4"/>
+<path class="sch-line sch-thin" d="M613.8,76.2 L619.7,65.7"/>
+<path class="sch-line sch-thin" d="M633.6,92.0 L642.5,84.0"/>
+<path class="sch-line sch-thin" d="M596.9,69.1 L600.3,57.6"/>
+<path class="sch-line sch-thin" d="M598.2,69.5 L601.7,58.0"/>
+<path class="sch-line sch-thin" d="M634.1,92.6 L643.1,84.6"/>
+<path class="sch-line sch-thin" d="M622.4,81.8 L629.6,72.2"/>
+<path class="sch-line sch-thin" d="M636.1,95.0 L645.4,87.4"/>
+<path class="sch-line sch-thin" d="M630.5,88.8 L639.0,80.3"/>
+<path class="sch-line sch-thin" d="M618.9,79.4 L625.6,69.4"/>
+<path class="sch-line sch-thin" d="M592.1,67.9 L594.7,56.2"/>
+<path class="sch-line sch-thin" d="M632.7,91.0 L641.5,82.8"/>
+<path class="sch-line sch-thin" d="M610.9,74.6 L616.4,63.9"/>
+<path class="sch-line sch-thin" d="M595.6,68.7 L598.7,57.2"/>
+<path class="sch-line sch-thin" d="M606.0,72.4 L610.8,61.3"/>
+<path class="sch-line sch-thin" d="M630.9,89.2 L639.4,80.7"/>
+<path class="sch-line sch-thin" d="M642.0,103.1 L652.2,96.8"/>
+<path class="sch-line sch-thin" d="M629.3,87.6 L637.6,78.9"/>
+<path class="sch-line sch-thin" d="M639.9,100.0 L649.8,93.1"/>
+<text class="sch-tex sch-tex-small" x="644.4" y="60.6" text-anchor="middle">A</text>
+<path class="sch-line" d="M292,145.0 C332,115.0 388,115.0 428,145.0"/>
+<path class="sch-line" d="M419,137.0 L428,145.0 L417,148.0"/>
+<text class="sch-tex" x="360.0" y="113.0" text-anchor="middle">g</text>
+<path class="sch-line" d="M428,161.0 C388,191.0 332,191.0 292,161.0"/>
+<path class="sch-line" d="M301,169.0 L292,161.0 L303,158.0"/>
+<text class="sch-tex sch-tex-small" x="360.0" y="207.0" text-anchor="middle">g^{-1}[\,\cdot\,]</text>
+<text class="sch-label" x="145.0" y="304" text-anchor="middle">Latent space</text>
+<text class="sch-label" x="575.0" y="304" text-anchor="middle">Data space</text>
+<text class="sch-tex sch-tex-small" x="145.0" y="330.0" text-anchor="middle">Z \sim \gamma</text>
+<text class="sch-tex sch-tex-small" x="575.0" y="330.0" text-anchor="middle">g(Z) \sim g_{\#}\gamma</text>
+</svg>

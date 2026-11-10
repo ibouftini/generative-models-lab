@@ -1,0 +1,359 @@
+<svg class="schematic" viewBox="0 0 720 262" xmlns="http://www.w3.org/2000/svg">
+<rect class="sch-frame" x="10" y="36" width="210" height="210" rx="10"/>
+<circle class="sch-ring sch-thin" style="stroke-dasharray: 4 4; stroke-opacity: .5" cx="115.0" cy="141.0" r="80.8"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="34.3" cy="139.1" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="124.2" cy="221.2" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="183.6" cy="98.4" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="169.5" cy="81.4" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="86.5" cy="65.4" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="61.2" cy="201.3" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="34.4" cy="136.0" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="179.3" cy="189.9" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="37.3" cy="118.8" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="60.6" cy="200.7" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="68.0" cy="75.3" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="49.1" cy="94.2" r="4.5"/>
+<text class="sch-label" style="font-size: 14px" x="115.0" y="24" text-anchor="middle">Training set</text>
+<rect class="sch-frame" x="255" y="36" width="210" height="210" rx="10"/>
+<circle class="sch-ring sch-thin" style="stroke-dasharray: 4 4; stroke-opacity: .5" cx="360.0" cy="141.0" r="80.8"/>
+<circle class="sch-muted" cx="279.3" cy="139.1" r="7.5"/>
+<circle class="sch-muted" cx="369.2" cy="221.2" r="8.2"/>
+<circle class="sch-muted" cx="428.6" cy="98.4" r="6.6"/>
+<circle class="sch-muted" cx="414.5" cy="81.4" r="9.1"/>
+<circle class="sch-muted" cx="331.5" cy="65.4" r="7.2"/>
+<circle class="sch-muted" cx="306.2" cy="201.3" r="8.6"/>
+<circle class="sch-muted" cx="279.4" cy="136.0" r="8.3"/>
+<circle class="sch-muted" cx="424.3" cy="189.9" r="6.8"/>
+<circle class="sch-muted" cx="282.3" cy="118.8" r="7.3"/>
+<circle class="sch-muted" cx="305.6" cy="200.7" r="9.5"/>
+<circle class="sch-muted" cx="313.0" cy="75.3" r="8.8"/>
+<circle class="sch-muted" cx="294.1" cy="94.2" r="7.7"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="279.3" cy="139.1" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="369.2" cy="221.2" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="428.6" cy="98.4" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="414.5" cy="81.4" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="331.5" cy="65.4" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="306.2" cy="201.3" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="279.4" cy="136.0" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="424.3" cy="189.9" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="282.3" cy="118.8" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="305.6" cy="200.7" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="313.0" cy="75.3" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="294.1" cy="94.2" r="4.5"/>
+<text class="sch-label" style="font-size: 14px" x="360.0" y="24" text-anchor="middle">Copying model</text>
+<rect class="sch-frame" x="500" y="36" width="210" height="210" rx="10"/>
+<circle class="sch-ring sch-thin" style="stroke-dasharray: 4 4; stroke-opacity: .5" cx="605.0" cy="141.0" r="80.8"/>
+<circle class="sch-muted" cx="683.8" cy="158.6" r="2.2"/>
+<circle class="sch-muted" cx="539.2" cy="94.2" r="2.2"/>
+<circle class="sch-muted" cx="582.4" cy="63.5" r="2.2"/>
+<circle class="sch-muted" cx="651.2" cy="207.2" r="2.2"/>
+<circle class="sch-muted" cx="662.3" cy="84.1" r="2.2"/>
+<circle class="sch-muted" cx="596.7" cy="221.3" r="2.2"/>
+<circle class="sch-muted" cx="635.8" cy="66.3" r="2.2"/>
+<circle class="sch-muted" cx="542.0" cy="90.5" r="2.2"/>
+<circle class="sch-muted" cx="614.2" cy="60.8" r="2.2"/>
+<circle class="sch-muted" cx="648.8" cy="208.9" r="2.2"/>
+<circle class="sch-muted" cx="542.7" cy="89.5" r="2.2"/>
+<circle class="sch-muted" cx="684.8" cy="153.8" r="2.2"/>
+<circle class="sch-muted" cx="548.0" cy="198.2" r="2.2"/>
+<circle class="sch-muted" cx="577.0" cy="216.8" r="2.2"/>
+<circle class="sch-muted" cx="525.0" cy="151.9" r="2.2"/>
+<circle class="sch-muted" cx="575.8" cy="65.7" r="2.2"/>
+<circle class="sch-muted" cx="541.0" cy="91.7" r="2.2"/>
+<circle class="sch-muted" cx="680.3" cy="170.3" r="2.2"/>
+<circle class="sch-muted" cx="629.4" cy="64.0" r="2.2"/>
+<circle class="sch-muted" cx="685.5" cy="147.0" r="2.2"/>
+<circle class="sch-muted" cx="609.2" cy="221.7" r="2.2"/>
+<circle class="sch-muted" cx="553.6" cy="78.7" r="2.2"/>
+<circle class="sch-muted" cx="554.1" cy="203.7" r="2.2"/>
+<circle class="sch-muted" cx="545.8" cy="86.1" r="2.2"/>
+<circle class="sch-muted" cx="545.6" cy="86.3" r="2.2"/>
+<circle class="sch-muted" cx="524.3" cy="142.9" r="2.2"/>
+<circle class="sch-muted" cx="685.3" cy="132.5" r="2.2"/>
+<circle class="sch-muted" cx="524.3" cy="137.7" r="2.2"/>
+<circle class="sch-muted" cx="684.5" cy="155.3" r="2.2"/>
+<circle class="sch-muted" cx="587.2" cy="62.2" r="2.2"/>
+<circle class="sch-muted" cx="604.1" cy="221.8" r="2.2"/>
+<circle class="sch-muted" cx="529.4" cy="112.6" r="2.2"/>
+<circle class="sch-muted" cx="625.4" cy="62.9" r="2.2"/>
+<circle class="sch-muted" cx="671.8" cy="186.4" r="2.2"/>
+<circle class="sch-muted" cx="685.3" cy="132.5" r="2.2"/>
+<circle class="sch-muted" cx="578.4" cy="64.8" r="2.2"/>
+<circle class="sch-muted" cx="685.8" cy="141.5" r="2.2"/>
+<circle class="sch-muted" cx="598.8" cy="60.5" r="2.2"/>
+<circle class="sch-muted" cx="652.1" cy="206.6" r="2.2"/>
+<circle class="sch-muted" cx="541.4" cy="190.8" r="2.2"/>
+<circle class="sch-muted" cx="632.9" cy="216.8" r="2.2"/>
+<circle class="sch-muted" cx="549.8" cy="200.0" r="2.2"/>
+<circle class="sch-muted" cx="552.5" cy="79.6" r="2.2"/>
+<circle class="sch-muted" cx="610.5" cy="221.6" r="2.2"/>
+<circle class="sch-muted" cx="684.7" cy="127.6" r="2.2"/>
+<circle class="sch-muted" cx="528.7" cy="114.5" r="2.2"/>
+<circle class="sch-muted" cx="549.0" cy="82.8" r="2.2"/>
+<circle class="sch-muted" cx="525.1" cy="129.4" r="2.2"/>
+<circle class="sch-muted" cx="661.2" cy="83.0" r="2.2"/>
+<circle class="sch-muted" cx="618.9" cy="61.4" r="2.2"/>
+<circle class="sch-muted" cx="530.3" cy="171.7" r="2.2"/>
+<circle class="sch-muted" cx="543.5" cy="88.6" r="2.2"/>
+<circle class="sch-muted" cx="625.9" cy="219.0" r="2.2"/>
+<circle class="sch-muted" cx="541.2" cy="190.6" r="2.2"/>
+<circle class="sch-muted" cx="657.0" cy="202.8" r="2.2"/>
+<circle class="sch-muted" cx="596.1" cy="221.3" r="2.2"/>
+<circle class="sch-muted" cx="540.2" cy="189.2" r="2.2"/>
+<circle class="sch-muted" cx="586.1" cy="62.5" r="2.2"/>
+<circle class="sch-muted" cx="621.5" cy="220.1" r="2.2"/>
+<circle class="sch-muted" cx="604.4" cy="60.2" r="2.2"/>
+<circle class="sch-muted" cx="676.9" cy="104.2" r="2.2"/>
+<circle class="sch-muted" cx="683.6" cy="159.7" r="2.2"/>
+<circle class="sch-muted" cx="526.8" cy="161.1" r="2.2"/>
+<circle class="sch-muted" cx="617.1" cy="220.9" r="2.2"/>
+<circle class="sch-muted" cx="525.6" cy="155.7" r="2.2"/>
+<circle class="sch-muted" cx="543.3" cy="193.1" r="2.2"/>
+<circle class="sch-muted" cx="683.9" cy="123.9" r="2.2"/>
+<circle class="sch-muted" cx="636.2" cy="66.5" r="2.2"/>
+<circle class="sch-muted" cx="568.2" cy="212.9" r="2.2"/>
+<circle class="sch-muted" cx="532.0" cy="175.6" r="2.2"/>
+<circle class="sch-muted" cx="648.9" cy="73.2" r="2.2"/>
+<circle class="sch-muted" cx="682.1" cy="165.0" r="2.2"/>
+<circle class="sch-muted" cx="650.7" cy="74.4" r="2.2"/>
+<circle class="sch-muted" cx="524.4" cy="146.2" r="2.2"/>
+<circle class="sch-muted" cx="654.9" cy="77.5" r="2.2"/>
+<circle class="sch-muted" cx="588.6" cy="220.1" r="2.2"/>
+<circle class="sch-muted" cx="591.7" cy="61.3" r="2.2"/>
+<circle class="sch-muted" cx="658.7" cy="80.7" r="2.2"/>
+<circle class="sch-muted" cx="682.4" cy="118.0" r="2.2"/>
+<circle class="sch-muted" cx="641.7" cy="69.1" r="2.2"/>
+<circle class="sch-muted" cx="633.9" cy="65.6" r="2.2"/>
+<circle class="sch-muted" cx="526.4" cy="159.6" r="2.2"/>
+<circle class="sch-muted" cx="528.0" cy="116.5" r="2.2"/>
+<circle class="sch-muted" cx="682.9" cy="162.4" r="2.2"/>
+<circle class="sch-muted" cx="682.4" cy="163.9" r="2.2"/>
+<circle class="sch-muted" cx="628.3" cy="218.3" r="2.2"/>
+<circle class="sch-muted" cx="566.8" cy="212.2" r="2.2"/>
+<circle class="sch-muted" cx="650.4" cy="207.8" r="2.2"/>
+<circle class="sch-muted" cx="679.9" cy="171.3" r="2.2"/>
+<circle class="sch-muted" cx="685.0" cy="129.6" r="2.2"/>
+<circle class="sch-muted" cx="664.5" cy="86.4" r="2.2"/>
+<circle class="sch-muted" cx="553.4" cy="78.9" r="2.2"/>
+<circle class="sch-muted" cx="672.2" cy="96.2" r="2.2"/>
+<circle class="sch-muted" cx="539.5" cy="188.3" r="2.2"/>
+<circle class="sch-muted" cx="599.7" cy="60.4" r="2.2"/>
+<circle class="sch-muted" cx="597.7" cy="60.6" r="2.2"/>
+<circle class="sch-muted" cx="585.7" cy="62.6" r="2.2"/>
+<circle class="sch-muted" cx="671.0" cy="94.5" r="2.2"/>
+<circle class="sch-muted" cx="600.4" cy="221.6" r="2.2"/>
+<circle class="sch-muted" cx="557.8" cy="206.5" r="2.2"/>
+<circle class="sch-muted" cx="541.7" cy="191.1" r="2.2"/>
+<circle class="sch-muted" cx="683.9" cy="123.9" r="2.2"/>
+<circle class="sch-muted" cx="532.0" cy="106.4" r="2.2"/>
+<circle class="sch-muted" cx="573.0" cy="215.2" r="2.2"/>
+<circle class="sch-muted" cx="649.8" cy="73.8" r="2.2"/>
+<circle class="sch-muted" cx="544.2" cy="87.8" r="2.2"/>
+<circle class="sch-muted" cx="685.1" cy="131.0" r="2.2"/>
+<circle class="sch-muted" cx="675.3" cy="101.3" r="2.2"/>
+<circle class="sch-muted" cx="621.9" cy="62.0" r="2.2"/>
+<circle class="sch-muted" cx="535.6" cy="99.7" r="2.2"/>
+<circle class="sch-muted" cx="526.4" cy="122.5" r="2.2"/>
+<circle class="sch-muted" cx="665.4" cy="194.6" r="2.2"/>
+<circle class="sch-muted" cx="572.2" cy="67.2" r="2.2"/>
+<circle class="sch-muted" cx="685.0" cy="130.1" r="2.2"/>
+<circle class="sch-muted" cx="642.2" cy="212.7" r="2.2"/>
+<circle class="sch-muted" cx="679.7" cy="110.4" r="2.2"/>
+<circle class="sch-muted" cx="672.4" cy="96.4" r="2.2"/>
+<circle class="sch-muted" cx="683.6" cy="159.5" r="2.2"/>
+<circle class="sch-muted" cx="606.7" cy="221.8" r="2.2"/>
+<circle class="sch-muted" cx="562.6" cy="72.2" r="2.2"/>
+<circle class="sch-muted" cx="659.5" cy="81.4" r="2.2"/>
+<circle class="sch-muted" cx="543.8" cy="88.2" r="2.2"/>
+<circle class="sch-muted" cx="562.1" cy="72.6" r="2.2"/>
+<circle class="sch-muted" cx="661.9" cy="198.3" r="2.2"/>
+<circle class="sch-muted" cx="534.5" cy="101.5" r="2.2"/>
+<circle class="sch-muted" cx="675.3" cy="101.2" r="2.2"/>
+<circle class="sch-muted" cx="677.4" cy="176.8" r="2.2"/>
+<circle class="sch-muted" cx="546.9" cy="197.1" r="2.2"/>
+<circle class="sch-muted" cx="665.0" cy="86.9" r="2.2"/>
+<circle class="sch-muted" cx="666.2" cy="88.3" r="2.2"/>
+<circle class="sch-muted" cx="526.1" cy="123.8" r="2.2"/>
+<circle class="sch-muted" cx="672.6" cy="96.8" r="2.2"/>
+<circle class="sch-muted" cx="550.4" cy="200.5" r="2.2"/>
+<circle class="sch-muted" cx="544.9" cy="194.9" r="2.2"/>
+<circle class="sch-muted" cx="684.1" cy="124.8" r="2.2"/>
+<circle class="sch-muted" cx="633.5" cy="216.6" r="2.2"/>
+<circle class="sch-muted" cx="623.5" cy="219.6" r="2.2"/>
+<circle class="sch-muted" cx="674.6" cy="182.0" r="2.2"/>
+<circle class="sch-muted" cx="566.2" cy="211.9" r="2.2"/>
+<circle class="sch-muted" cx="576.6" cy="216.6" r="2.2"/>
+<circle class="sch-muted" cx="646.7" cy="71.8" r="2.2"/>
+<circle class="sch-muted" cx="684.9" cy="128.9" r="2.2"/>
+<circle class="sch-muted" cx="679.0" cy="108.7" r="2.2"/>
+<circle class="sch-muted" cx="683.8" cy="158.9" r="2.2"/>
+<circle class="sch-muted" cx="555.8" cy="205.0" r="2.2"/>
+<circle class="sch-muted" cx="681.3" cy="167.4" r="2.2"/>
+<circle class="sch-muted" cx="557.8" cy="75.5" r="2.2"/>
+<circle class="sch-muted" cx="607.6" cy="221.7" r="2.2"/>
+<circle class="sch-muted" cx="679.0" cy="108.7" r="2.2"/>
+<circle class="sch-muted" cx="645.6" cy="71.2" r="2.2"/>
+<circle class="sch-muted" cx="591.3" cy="61.4" r="2.2"/>
+<circle class="sch-muted" cx="528.2" cy="166.1" r="2.2"/>
+<circle class="sch-muted" cx="529.4" cy="169.5" r="2.2"/>
+<circle class="sch-muted" cx="524.2" cy="140.5" r="2.2"/>
+<circle class="sch-muted" cx="533.2" cy="104.1" r="2.2"/>
+<circle class="sch-muted" cx="533.2" cy="178.0" r="2.2"/>
+<circle class="sch-muted" cx="684.0" cy="157.8" r="2.2"/>
+<circle class="sch-muted" cx="527.0" cy="120.0" r="2.2"/>
+<circle class="sch-muted" cx="647.2" cy="209.9" r="2.2"/>
+<circle class="sch-muted" cx="680.8" cy="113.2" r="2.2"/>
+<circle class="sch-muted" cx="544.2" cy="87.8" r="2.2"/>
+<circle class="sch-muted" cx="530.0" cy="171.0" r="2.2"/>
+<circle class="sch-muted" cx="546.2" cy="196.4" r="2.2"/>
+<circle class="sch-muted" cx="605.0" cy="60.2" r="2.2"/>
+<circle class="sch-muted" cx="539.9" cy="93.2" r="2.2"/>
+<circle class="sch-muted" cx="681.3" cy="167.4" r="2.2"/>
+<circle class="sch-muted" cx="557.1" cy="206.0" r="2.2"/>
+<circle class="sch-muted" cx="535.5" cy="182.1" r="2.2"/>
+<circle class="sch-muted" cx="679.1" cy="108.8" r="2.2"/>
+<circle class="sch-muted" cx="681.5" cy="115.0" r="2.2"/>
+<circle class="sch-muted" cx="624.4" cy="62.6" r="2.2"/>
+<circle class="sch-muted" cx="657.3" cy="79.5" r="2.2"/>
+<circle class="sch-muted" cx="685.3" cy="149.2" r="2.2"/>
+<circle class="sch-muted" cx="685.8" cy="139.6" r="2.2"/>
+<circle class="sch-muted" cx="551.3" cy="80.7" r="2.2"/>
+<circle class="sch-muted" cx="680.4" cy="112.0" r="2.2"/>
+<circle class="sch-muted" cx="553.5" cy="203.2" r="2.2"/>
+<circle class="sch-muted" cx="682.3" cy="117.7" r="2.2"/>
+<circle class="sch-muted" cx="678.4" cy="107.3" r="2.2"/>
+<circle class="sch-muted" cx="675.8" cy="102.1" r="2.2"/>
+<circle class="sch-muted" cx="594.0" cy="61.0" r="2.2"/>
+<circle class="sch-muted" cx="533.3" cy="178.3" r="2.2"/>
+<circle class="sch-muted" cx="632.6" cy="216.9" r="2.2"/>
+<circle class="sch-muted" cx="596.3" cy="60.7" r="2.2"/>
+<circle class="sch-muted" cx="588.3" cy="62.0" r="2.2"/>
+<circle class="sch-muted" cx="641.4" cy="213.1" r="2.2"/>
+<circle class="sch-muted" cx="602.9" cy="221.7" r="2.2"/>
+<circle class="sch-muted" cx="661.5" cy="83.2" r="2.2"/>
+<circle class="sch-muted" cx="633.0" cy="216.8" r="2.2"/>
+<circle class="sch-muted" cx="644.5" cy="211.5" r="2.2"/>
+<circle class="sch-muted" cx="640.4" cy="68.4" r="2.2"/>
+<circle class="sch-muted" cx="548.6" cy="198.8" r="2.2"/>
+<circle class="sch-muted" cx="631.5" cy="64.7" r="2.2"/>
+<circle class="sch-muted" cx="608.3" cy="60.3" r="2.2"/>
+<circle class="sch-muted" cx="524.3" cy="138.0" r="2.2"/>
+<circle class="sch-muted" cx="525.0" cy="152.2" r="2.2"/>
+<circle class="sch-muted" cx="524.9" cy="130.4" r="2.2"/>
+<circle class="sch-muted" cx="526.9" cy="161.6" r="2.2"/>
+<circle class="sch-muted" cx="623.5" cy="62.4" r="2.2"/>
+<circle class="sch-muted" cx="619.4" cy="220.5" r="2.2"/>
+<circle class="sch-muted" cx="590.9" cy="61.5" r="2.2"/>
+<circle class="sch-muted" cx="673.9" cy="183.1" r="2.2"/>
+<circle class="sch-muted" cx="524.6" cy="148.7" r="2.2"/>
+<circle class="sch-muted" cx="578.3" cy="64.8" r="2.2"/>
+<circle class="sch-muted" cx="641.9" cy="69.2" r="2.2"/>
+<circle class="sch-muted" cx="524.6" cy="133.5" r="2.2"/>
+<circle class="sch-muted" cx="547.4" cy="84.4" r="2.2"/>
+<circle class="sch-muted" cx="547.2" cy="197.4" r="2.2"/>
+<circle class="sch-muted" cx="524.2" cy="140.2" r="2.2"/>
+<circle class="sch-muted" cx="683.6" cy="122.4" r="2.2"/>
+<circle class="sch-muted" cx="645.3" cy="211.0" r="2.2"/>
+<circle class="sch-muted" cx="681.5" cy="115.2" r="2.2"/>
+<circle class="sch-muted" cx="642.8" cy="212.4" r="2.2"/>
+<circle class="sch-muted" cx="636.0" cy="215.6" r="2.2"/>
+<circle class="sch-muted" cx="676.7" cy="178.1" r="2.2"/>
+<circle class="sch-muted" cx="563.6" cy="210.4" r="2.2"/>
+<circle class="sch-muted" cx="648.0" cy="72.6" r="2.2"/>
+<circle class="sch-muted" cx="529.5" cy="112.2" r="2.2"/>
+<circle class="sch-muted" cx="530.0" cy="111.0" r="2.2"/>
+<circle class="sch-muted" cx="550.6" cy="200.7" r="2.2"/>
+<circle class="sch-muted" cx="545.7" cy="86.1" r="2.2"/>
+<circle class="sch-muted" cx="568.6" cy="213.1" r="2.2"/>
+<circle class="sch-muted" cx="628.1" cy="63.6" r="2.2"/>
+<circle class="sch-muted" cx="556.2" cy="76.7" r="2.2"/>
+<circle class="sch-muted" cx="527.2" cy="162.7" r="2.2"/>
+<circle class="sch-muted" cx="532.4" cy="105.5" r="2.2"/>
+<circle class="sch-muted" cx="663.0" cy="84.8" r="2.2"/>
+<circle class="sch-muted" cx="683.9" cy="158.2" r="2.2"/>
+<circle class="sch-muted" cx="575.9" cy="216.3" r="2.2"/>
+<circle class="sch-muted" cx="645.3" cy="211.0" r="2.2"/>
+<circle class="sch-muted" cx="554.5" cy="78.0" r="2.2"/>
+<circle class="sch-muted" cx="681.0" cy="168.4" r="2.2"/>
+<circle class="sch-muted" cx="635.9" cy="215.6" r="2.2"/>
+<circle class="sch-muted" cx="685.1" cy="151.4" r="2.2"/>
+<circle class="sch-muted" cx="631.2" cy="64.6" r="2.2"/>
+<circle class="sch-muted" cx="525.1" cy="129.5" r="2.2"/>
+<circle class="sch-muted" cx="544.1" cy="87.9" r="2.2"/>
+<circle class="sch-muted" cx="544.0" cy="194.0" r="2.2"/>
+<circle class="sch-muted" cx="604.9" cy="60.2" r="2.2"/>
+<circle class="sch-muted" cx="670.2" cy="93.3" r="2.2"/>
+<circle class="sch-muted" cx="525.1" cy="129.2" r="2.2"/>
+<circle class="sch-muted" cx="553.3" cy="203.1" r="2.2"/>
+<circle class="sch-muted" cx="544.7" cy="87.2" r="2.2"/>
+<circle class="sch-muted" cx="685.5" cy="147.4" r="2.2"/>
+<circle class="sch-muted" cx="537.9" cy="96.0" r="2.2"/>
+<circle class="sch-muted" cx="580.1" cy="64.2" r="2.2"/>
+<circle class="sch-muted" cx="636.6" cy="215.3" r="2.2"/>
+<circle class="sch-muted" cx="526.0" cy="124.2" r="2.2"/>
+<circle class="sch-muted" cx="593.3" cy="61.1" r="2.2"/>
+<circle class="sch-muted" cx="586.6" cy="62.3" r="2.2"/>
+<circle class="sch-muted" cx="681.4" cy="167.3" r="2.2"/>
+<circle class="sch-muted" cx="683.4" cy="160.2" r="2.2"/>
+<circle class="sch-muted" cx="556.0" cy="205.2" r="2.2"/>
+<circle class="sch-muted" cx="590.5" cy="61.5" r="2.2"/>
+<circle class="sch-muted" cx="585.6" cy="219.4" r="2.2"/>
+<circle class="sch-muted" cx="621.7" cy="62.0" r="2.2"/>
+<circle class="sch-muted" cx="569.7" cy="68.4" r="2.2"/>
+<circle class="sch-muted" cx="527.0" cy="161.9" r="2.2"/>
+<circle class="sch-muted" cx="539.3" cy="94.0" r="2.2"/>
+<circle class="sch-muted" cx="557.1" cy="76.0" r="2.2"/>
+<circle class="sch-muted" cx="684.7" cy="154.1" r="2.2"/>
+<circle class="sch-muted" cx="643.8" cy="70.2" r="2.2"/>
+<circle class="sch-muted" cx="544.0" cy="193.9" r="2.2"/>
+<circle class="sch-muted" cx="683.4" cy="121.6" r="2.2"/>
+<circle class="sch-muted" cx="672.7" cy="97.0" r="2.2"/>
+<circle class="sch-muted" cx="625.1" cy="62.8" r="2.2"/>
+<circle class="sch-muted" cx="685.7" cy="145.2" r="2.2"/>
+<circle class="sch-muted" cx="593.1" cy="220.9" r="2.2"/>
+<circle class="sch-muted" cx="659.6" cy="200.6" r="2.2"/>
+<circle class="sch-muted" cx="681.9" cy="116.3" r="2.2"/>
+<circle class="sch-muted" cx="571.3" cy="214.4" r="2.2"/>
+<circle class="sch-muted" cx="529.9" cy="111.2" r="2.2"/>
+<circle class="sch-muted" cx="535.1" cy="100.5" r="2.2"/>
+<circle class="sch-muted" cx="584.1" cy="219.0" r="2.2"/>
+<circle class="sch-muted" cx="576.1" cy="65.6" r="2.2"/>
+<circle class="sch-muted" cx="524.5" cy="147.8" r="2.2"/>
+<circle class="sch-muted" cx="599.6" cy="60.4" r="2.2"/>
+<circle class="sch-muted" cx="542.3" cy="90.1" r="2.2"/>
+<circle class="sch-muted" cx="526.0" cy="157.8" r="2.2"/>
+<circle class="sch-muted" cx="649.2" cy="73.4" r="2.2"/>
+<circle class="sch-muted" cx="591.8" cy="61.3" r="2.2"/>
+<circle class="sch-muted" cx="534.1" cy="102.3" r="2.2"/>
+<circle class="sch-muted" cx="525.4" cy="127.2" r="2.2"/>
+<circle class="sch-muted" cx="630.0" cy="217.8" r="2.2"/>
+<circle class="sch-muted" cx="554.7" cy="204.2" r="2.2"/>
+<circle class="sch-muted" cx="530.4" cy="171.9" r="2.2"/>
+<circle class="sch-muted" cx="660.2" cy="199.9" r="2.2"/>
+<circle class="sch-muted" cx="631.2" cy="64.6" r="2.2"/>
+<circle class="sch-muted" cx="669.1" cy="91.9" r="2.2"/>
+<circle class="sch-muted" cx="541.6" cy="91.0" r="2.2"/>
+<circle class="sch-muted" cx="657.6" cy="79.7" r="2.2"/>
+<circle class="sch-muted" cx="529.2" cy="168.8" r="2.2"/>
+<circle class="sch-muted" cx="532.7" cy="177.1" r="2.2"/>
+<circle class="sch-muted" cx="659.7" cy="81.6" r="2.2"/>
+<circle class="sch-muted" cx="587.9" cy="219.9" r="2.2"/>
+<circle class="sch-muted" cx="529.3" cy="169.1" r="2.2"/>
+<circle class="sch-muted" cx="533.5" cy="103.5" r="2.2"/>
+<circle class="sch-muted" cx="675.2" cy="181.0" r="2.2"/>
+<circle class="sch-muted" cx="654.9" cy="204.5" r="2.2"/>
+<circle class="sch-muted" cx="619.7" cy="61.6" r="2.2"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="524.3" cy="139.1" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="614.2" cy="221.2" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="673.6" cy="98.4" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="659.5" cy="81.4" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="576.5" cy="65.4" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="551.2" cy="201.3" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="524.4" cy="136.0" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="669.3" cy="189.9" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="527.3" cy="118.8" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="550.6" cy="200.7" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="558.0" cy="75.3" r="4.5"/>
+<circle class="sch-ring" style="stroke-width: 1.4" cx="539.1" cy="94.2" r="4.5"/>
+<text class="sch-label" style="font-size: 14px" x="605.0" y="24" text-anchor="middle">Model we want</text>
+</svg>

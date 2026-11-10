@@ -1,0 +1,8 @@
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+checkpoints/*_samples/
+
+# local backups and notes, never published
+_dev/
